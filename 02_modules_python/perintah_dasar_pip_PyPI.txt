@@ -1,0 +1,24 @@
+PyPI adalah repositori resmi untuk Python packages. 
+Di sini tersimpan lebih dari 600,000 packages yang bisa digunakan gratis.
+https://pypi.org 
+
+# Install package
+pip install nama_package
+
+# Install versi tertentu
+pip install nama_package==1.2.3
+
+# Upgrade package
+pip install --upgrade nama_package
+
+# Uninstall package
+pip uninstall nama_package
+
+# Lihat packages yang terinstall
+pip list
+
+# Lihat info package
+pip show nama_package
+
+# Install dari requirements.txt
+pip install -r requirements.txt

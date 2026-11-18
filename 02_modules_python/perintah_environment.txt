@@ -1,0 +1,14 @@
+# Buat virtual environment, biasanya nama foldernya .venv
+python -m venv nama_folder
+
+# Aktifkan (Windows)
+my_project_env\Scripts\activate
+
+# Aktifkan (Mac/Linux)
+source my_project_env/bin/activate
+
+# Install packages dalam environment
+pip install requests colorama
+
+# Deaktifkan
+deactivate
