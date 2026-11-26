@@ -47,6 +47,7 @@ Implementasi proyek-proyek berbasis CLI yang disusun dalam dua pendekatan untuk 
 - **`ujian_sekolah/`** — Simulasi ujian pilihan ganda interaktif dari file bank soal eksternal.
 - **`kalkulator/`** — Aplikasi kalkulator aritmatika dasar berbasis terminal.
 - **`tebak_angka/`** — Permainan interaktif menebak angka acak dengan sistem petunjuk.
+- **`post_comment/`** — Aplikasi CLI sederhana untuk mengambil dan menampilkan data *post* beserta *comment* dari API JSONPlaceholder.
 
 ---
 
@@ -54,9 +55,10 @@ Implementasi proyek-proyek berbasis CLI yang disusun dalam dua pendekatan untuk 
 
 | Project | Deskripsi Singkat | Konsep Utama | Status Arsitektur |
 | :--- | :--- | :--- | :--- |
-| **`ujian_sekolah`** | Simulasi ujian pilihan ganda yang memuat soal dari `bank_soal.txt`, mengacak urutan pertanyaan dan opsi jawaban, serta menghitung persentase skor akhir. | File I/O, `random`, `list`, `dictionary`, string parsing | `basic` (Selesai) · `modular` (In Progress) |
-| **`kalkulator`** | Aplikasi kalkulator aritmatika interaktif berbasis CLI. | Fungsi, percabangan, validasi input | `basic` (Selesai) · `modular` (In Progress) |
-| **`tebak_angka`** | Permainan tebak angka acak dengan sistem petunjuk tinggi/rendah dan batas percobaan. | Perulangan `while`, modul `random`, kontrol alur | `basic` (Selesai) · `modular` (In Progress) |
+| **`ujian_sekolah`** | Simulasi ujian pilihan ganda yang memuat soal dari `bank_soal.txt`, mengacak urutan pertanyaan dan opsi jawaban, serta menghitung persentase skor akhir. | File I/O, `random`, `list`, `dictionary`, string parsing | `basic` (Selesai) · `modular` (Selesai) |
+| **`kalkulator`** | Aplikasi kalkulator aritmatika interaktif berbasis CLI. | Fungsi, percabangan, validasi input | `basic` (Selesai) · `modular` (Selesai) |
+| **`tebak_angka`** | Permainan tebak angka acak dengan sistem petunjuk tinggi/rendah dan batas percobaan. | Perulangan `while`, modul `random`, kontrol alur | `basic` (Selesai) · `modular` (Selesai) |
+| **`post_comment`** | Aplikasi CLI sederhana untuk mengambil dan menampilkan daftar *post* beserta komentar terkait dari REST API publik JSONPlaceholder. | HTTP Request (`requests`), parsing `json` | `modular` (Selesai) |
 
 ---
 
@@ -97,6 +99,10 @@ Jalankan skrip melalui terminal dengan masuk ke direktori masing-masing project 
 cd 03_mini_project/ujian_sekolah/basic
 python3 ujian_sekolah.py
 
+# Menjalankan aplikasi post & comment (versi modular)
+cd ../../../03_mini_project/post_comment/modular
+python3 main.py
+
 # Menjalankan skrip package eksternal
 cd ../../../02_modules_python
 python3 package_qrcode.py
@@ -105,5 +111,5 @@ python3 package_qrcode.py
 ---
 
 ## 📝 Catatan
-- Pastikan file pendukung seperti `bank_soal.txt` berada di dalam folder `03_mini_project/ujian_sekolah/basic/` (atau disesuaikan *path*-nya) agar skrip `ujian_sekolah.py` dapat membacanya tanpa kendala.
-- Repository ini terus diperbarui seiring dengan penyelesaian versi `modular` pada seluruh *mini-project* serta pendalaman materi ke tingkat lanjut (*Object-Oriented Programming* dan pengembangan API).
+- Pastikan file pendukung seperti `bank_soal.txt` berada di dalam direktori yang sesuai agar skrip `ujian_sekolah.py` dapat membacanya tanpa kendala, serta pastikan koneksi internet aktif saat menjalankan `post_comment` untuk mengakses API JSONPlaceholder.
+- Seluruh *mini-project* pada tahap ini telah selesai diimplementasikan baik dalam versi `basic` maupun `modular`, dan repository akan terus berkembang untuk mendalami materi tingkat lanjut (*Object-Oriented Programming* dan pengembangan backend API).
