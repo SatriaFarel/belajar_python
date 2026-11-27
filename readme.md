@@ -50,6 +50,7 @@ Implementasi proyek-proyek berbasis CLI yang disusun dalam dua pendekatan untuk 
 - **`ujian_sekolah/`** — Simulasi ujian pilihan ganda interaktif dari file bank soal eksternal.
 - **`kalkulator/`** — Aplikasi kalkulator aritmatika dasar berbasis terminal.
 - **`tebak_angka/`** — Permainan interaktif menebak angka acak dengan sistem petunjuk.
+- **`post_comment/`** — Aplikasi CLI sederhana untuk mengambil dan menampilkan data *post* beserta *comment* dari API JSONPlaceholder.
 
 ### 4. `04_data_analyst/`
 Eksplorasi pengolahan data terstruktur, pembersihan data kotor (*data wrangling*), visualisasi statistik, hingga otomatisasi ekspor laporan multi-sheet:
@@ -72,11 +73,9 @@ Studi kasus analisis operasional dan performa penjualan bisnis kedai kopi secara
 
 | Project / Studi Kasus | Deskripsi Singkat | Konsep & Tools Utama | Status |
 | :--- | :--- | :--- | :--- |
-| **`Retail Sales Pipeline`** (`04_data_analyst`) | Pembersihan data transaksi kotor, analisis *opportunity loss* pesanan batal, performa metode pembayaran, dan ekspor laporan otomatis ke Excel. | `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `OpenPyXL` | Selesai |
-| **`Coffee Shop Analytics`** (`05_studi_kasus_DA`) | Studi kasus analisis profitabilitas menu kopi, performa cabang, dominasi *channel* order, dan pola jam operasional tersibuk (*peak hours*). | Data Cleaning, Relational Merge, Time-Series Hour Extraction, EDA | Selesai |
-| **`ujian_sekolah`** (`03_mini_project`) | Simulasi ujian pilihan ganda yang memuat soal dari `bank_soal.txt`, mengacak urutan pertanyaan dan opsi jawaban, serta menghitung skor akhir. | File I/O, `random`, `list`, `dictionary`, string parsing | `basic` (Selesai) · `modular` (In Progress) |
-| **`kalkulator`** (`03_mini_project`) | Aplikasi kalkulator aritmatika interaktif berbasis CLI. | Fungsi, percabangan, validasi input | `basic` (Selesai) · `modular` (In Progress) |
-| **`tebak_angka`** (`03_mini_project`) | Permainan tebak angka acak dengan sistem petunjuk tinggi/rendah dan batas percobaan. | Perulangan `while`, modul `random`, kontrol alur | `basic` (Selesai) · `modular` (In Progress) |
+| **`ujian_sekolah`** | Simulasi ujian pilihan ganda yang memuat soal dari `bank_soal.txt`, mengacak urutan pertanyaan dan opsi jawaban, serta menghitung persentase skor akhir. | File I/O, `random`, `list`, `dictionary`, string parsing | `basic` (Selesai) · `modular` (In Progress) |
+| **`kalkulator`** | Aplikasi kalkulator aritmatika interaktif berbasis CLI. | Fungsi, percabangan, validasi input | `basic` (Selesai) · `modular` (In Progress) |
+| **`tebak_angka`** | Permainan tebak angka acak dengan sistem petunjuk tinggi/rendah dan batas percobaan. | Perulangan `while`, modul `random`, kontrol alur | `basic` (Selesai) · `modular` (In Progress) |
 
 ---
 
@@ -116,6 +115,10 @@ Pastikan **Python 3.12+** sudah terpasang di sistem Anda.
 cd 03_mini_project/ujian_sekolah/basic
 python3 ujian_sekolah.py
 
+# Menjalankan aplikasi post & comment (versi modular)
+cd ../../../03_mini_project/post_comment/modular
+python3 main.py
+
 # Menjalankan skrip package eksternal
 cd ../../../02_modules_python
 python3 package_qrcode.py
@@ -133,6 +136,5 @@ python3 package_qrcode.py
 ---
 
 ## 📝 Catatan
-- Jangan lupa perbarui `constraints.txt` dengan perintah `pip freeze > constraints.txt` setiap kali menambahkan pustaka baru untuk analisis data (seperti `pandas`, `seaborn`, atau `openpyxl`).
-- Pastikan *working directory* saat menjalankan notebook berada di dalam masing-masing folder modul (`04_data_analyst/` atau `05_studi_kasus_DA/`) agar *relative path* menuju folder `data/` dan `reports/` terbaca dengan benar.
-- Repository ini terus diperbarui seiring dengan penyelesaian versi `modular` pada seluruh *mini-project* CLI serta rencana eksplorasi integrasi database relasional (**Python + MySQL**).
+- Pastikan file pendukung seperti `bank_soal.txt` berada di dalam folder `03_mini_project/ujian_sekolah/basic/` (atau disesuaikan *path*-nya) agar skrip `ujian_sekolah.py` dapat membacanya tanpa kendala.
+- Repository ini terus diperbarui seiring dengan penyelesaian versi `modular` pada seluruh *mini-project* serta pendalaman materi ke tingkat lanjut (*Object-Oriented Programming* dan pengembangan API).
