@@ -1,0 +1,1226 @@
+id_order,waktu_transaksi,id_menu,qty,cabang,tipe_order,status
+ORD-0001,06/09/2026 13:38,MN-07,2,Jakarta Timur,GrabFood,Batal
+ORD-0002,2026-10-04 13:26,MN-02,2,jakarta timur ,Takeaway,Selesai
+ORD-0003,2026-07-16 17:05,MN-08,1,Bekasi,GrabFood,Selesai
+ORD-0004,2026-10-15 09:29,MN-06,2,Bekasi,Takeaway,Selesai
+ORD-0005,2026-10-07 12:02,MN-03,1,jakarta timur ,GrabFood,Selesai
+ORD-0006,2026-08-19 07:24,MN-03,3,Jakarta Timur,GrabFood,Selesai
+ORD-0007,03/07/2026 18:44,MN-07,4,,Takeaway,Batal
+ORD-0008,2026-07-02 10:07,MN-07,2,jakarta timur ,Takeaway,Batal
+ORD-0009,2026-10-06 14:54,MN-06,3,Jakarta Selatan,gofood ,Selesai
+ORD-0010,2026-10-28 08:21,MN-01,2,jakarta timur ,GoFood,Batal
+ORD-0011,2026-07-17 08:59,MN-02,3,jakarta timur ,Takeaway,Selesai
+ORD-0012,2026-08-20 13:48,MN-02,2,Jakarta Timur,GrabFood,Selesai
+ORD-0013,2026-10-07 16:58,MN-02,3,Bekasi,GoFood,Selesai
+ORD-0014,2026-08-12 19:43,MN-03,4,Jakarta Selatan,GoFood,Selesai
+ORD-0015,2026-07-14 15:42,MN-04,4,Jakarta Selatan,GoFood,Selesai
+ORD-0016,2026-06-29 13:00,MN-01,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0017,15/09/2026 21:35,MN-05,3,Jakarta Timur,Dine-In,Batal
+ORD-0018,2026-06-15 20:19,MN-01,3,,GoFood,Selesai
+ORD-0019,2026-09-10 19:50,MN-02,2,Jakarta Selatan,GrabFood,Selesai
+ORD-0020,2026-09-01 15:13,MN-03,3,,GrabFood,Batal
+ORD-0021,2026-07-14 09:34,MN-08,2,Jakarta Timur,GrabFood,Selesai
+ORD-0022,2026-06-02 15:40,MN-06,1,Jakarta Selatan,Dine-In,Selesai
+ORD-0023,2026-06-13 17:32,MN-01,2,jakarta timur ,GrabFood,Selesai
+ORD-0024,2026-06-30 22:10,MN-04,3, BEKASI,gofood ,Selesai
+ORD-0025,2026-10-15 09:47,MN-06,1,Jakarta Selatan,Dine-In,Batal
+ORD-0026,2026-07-13 18:55,MN-07,2, BEKASI,Dine-In,Selesai
+ORD-0027,2026-07-19 16:11,MN-07,1, BEKASI,Dine-In,Selesai
+ORD-0028,2026-06-25 14:36,MN-07,4,Jakarta Timur,Takeaway,Selesai
+ORD-0029,04/09/2026 15:20,MN-08,1,Jakarta Selatan,Dine-In,Selesai
+ORD-0030,14/08/2026 10:31,MN-05,4,Jakarta Selatan,GoFood,Selesai
+ORD-0031,2026-06-09 19:52,MN-06,3,,GoFood,Selesai
+ORD-0032,2026-10-10 14:11,MN-07,4,,gofood ,Selesai
+ORD-0033,2026-06-02 07:53,MN-07,2,,GoFood,Selesai
+ORD-0034,2026-07-09 07:59,MN-07,1,jakarta timur ,gofood ,Selesai
+ORD-0035,20/09/2026 11:30,MN-06,1,,Takeaway,Selesai
+ORD-0036,2026-07-22 12:08,MN-07,4,,gofood ,Batal
+ORD-0037,2026-07-31 14:33,MN-02,2, BEKASI,Takeaway,Selesai
+ORD-0038,2026-10-23 17:31,MN-06,2,Jakarta Timur,GoFood,Selesai
+ORD-0039,14/08/2026 12:17,MN-01,24,Bekasi,GoFood,Selesai
+ORD-0040,2026-08-18 15:12,MN-03,4,Bekasi,gofood ,Selesai
+ORD-0041,05/06/2026 18:20,MN-07,4,Jakarta Timur,,Selesai
+ORD-0042,27/07/2026 17:39,MN-04,3,Jakarta Timur,GrabFood,Selesai
+ORD-0043,2026-10-06 20:35,MN-06,4,Bekasi,GoFood,Selesai
+ORD-0044,2026-10-14 14:04,MN-05,1,Jakarta Timur,GoFood,Batal
+ORD-0045,2026-07-25 21:42,MN-04,4,Bekasi,GrabFood,Selesai
+ORD-0046,2026-08-12 22:48,MN-01,4,Bekasi,Takeaway,Batal
+ORD-0047,2026-08-13 19:49,MN-02,2,jakarta timur ,GoFood,Batal
+ORD-0048,2026-06-06 08:36,MN-02,1,Jakarta Selatan,gofood ,Batal
+ORD-0049,2026-06-06 10:51,MN-01,3,Jakarta Timur,,Selesai
+ORD-0050,2026-07-17 11:52,MN-05,3,Jakarta Timur,Takeaway,Selesai
+ORD-0051,2026-06-25 09:17,MN-07,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0052,2026-08-04 22:25,MN-02,2,Jakarta Selatan,gofood ,Selesai
+ORD-0053,04/08/2026 15:40,MN-08,2,Bekasi,gofood ,Selesai
+ORD-0054,2026-10-11 09:14,MN-06,4,Bekasi,GrabFood,Batal
+ORD-0055,03/06/2026 20:05,MN-02,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0056,20/07/2026 10:09,MN-05,3, BEKASI,Takeaway,Selesai
+ORD-0057,2026-08-22 07:53,MN-02,2,Jakarta Timur,GoFood,Selesai
+ORD-0058,2026-07-26 18:08,MN-06,1, BEKASI,Takeaway,Selesai
+ORD-0059,2026-09-30 12:38,MN-07,3, BEKASI,Dine-In,Batal
+ORD-0060,2026-07-10 11:27,MN-06,1,,GoFood,Selesai
+ORD-0061,2026-06-26 16:02,MN-06,3,Jakarta Timur,Dine-In,Selesai
+ORD-0062,2026-09-18 19:23,MN-07,4,Bekasi,GoFood,Selesai
+ORD-0063,2026-09-03 19:20,MN-01,2,Bekasi,GoFood,Selesai
+ORD-0064,2026-07-05 11:18,MN-03,1,Jakarta Selatan,gofood ,Batal
+ORD-0065,2026-08-07 16:27,MN-03,4,Jakarta Timur,Takeaway,Selesai
+ORD-0066,2026-10-06 16:15,MN-02,1,Jakarta Timur,gofood ,Selesai
+ORD-0067,2026-10-16 08:04,MN-06,1,Jakarta Timur,gofood ,Selesai
+ORD-0068,01/06/2026 13:46,MN-08,1,,Takeaway,Batal
+ORD-0069,2026-08-13 07:49,MN-08,1,,GrabFood,Selesai
+ORD-0070,05/07/2026 16:36,MN-08,3,Jakarta Timur,gofood ,Selesai
+ORD-0071,15/09/2026 15:11,MN-04,3,,GoFood,Batal
+ORD-0072,01/10/2026 07:35,MN-05,2,Bekasi,Dine-In,Selesai
+ORD-0073,16/08/2026 15:20,MN-04,4,Bekasi,Takeaway,Selesai
+ORD-0074,2026-10-19 21:29,MN-03,3,Bekasi,Takeaway,Selesai
+ORD-0075,2026-06-13 19:35,MN-03,2, BEKASI,GrabFood,Selesai
+ORD-0076,15/10/2026 17:21,MN-07,2,,GrabFood,Selesai
+ORD-0077,2026-09-13 14:21,MN-04,1,Jakarta Timur,GrabFood,Selesai
+ORD-0078,2026-09-21 17:32,MN-05,1,,GrabFood,Selesai
+ORD-0079,14/07/2026 11:30,MN-05,3,jakarta timur ,GrabFood,Selesai
+ORD-0080,2026-10-11 22:38,MN-08,3,Jakarta Timur,GrabFood,Selesai
+ORD-0081,2026-08-28 22:00,MN-02,4,Jakarta Timur,Takeaway,Selesai
+ORD-0082,17/10/2026 07:07,MN-07,2,Jakarta Selatan,GoFood,Selesai
+ORD-0083,2026-06-16 08:49,MN-06,2, BEKASI,Takeaway,Batal
+ORD-0084,2026-07-18 21:16,MN-01,4,Bekasi,Dine-In,Selesai
+ORD-0085,2026-07-13 08:52,MN-02,2,Bekasi,GoFood,Selesai
+ORD-0086,2026-09-29 17:41,MN-03,3,jakarta timur ,,Selesai
+ORD-0087,16/10/2026 09:21,MN-05,1,jakarta timur ,GoFood,Selesai
+ORD-0088,2026-09-04 18:23,MN-03,3,,GoFood,Selesai
+ORD-0089,2026-07-30 16:53,MN-03,1,Jakarta Timur,Dine-In,Selesai
+ORD-0090,22/08/2026 14:54,MN-07,2,Bekasi,GrabFood,Selesai
+ORD-0091,2026-08-27 17:12,MN-01,4,Jakarta Selatan,gofood ,Selesai
+ORD-0092,10/07/2026 08:19,MN-01,3,Bekasi,gofood ,Selesai
+ORD-0093,2026-08-20 14:03,MN-04,2, BEKASI,gofood ,Selesai
+ORD-0094,2026-07-20 17:31,MN-01,4,Jakarta Selatan,GrabFood,Batal
+ORD-0095,2026-08-11 20:55,MN-08,2,Bekasi,Takeaway,Selesai
+ORD-0096,2026-07-23 10:35,MN-08,1,Bekasi,GrabFood,Selesai
+ORD-0097,23/06/2026 12:01,MN-02,2,Jakarta Timur,,Selesai
+ORD-0098,2026-09-04 12:28,MN-06,4,jakarta timur ,GrabFood,Selesai
+ORD-0099,2026-08-30 12:44,MN-02,3,Jakarta Timur,Takeaway,Selesai
+ORD-0100,2026-07-31 21:07,MN-06,3,Jakarta Selatan,Takeaway,Selesai
+ORD-0101,2026-07-17 13:08,MN-02,2, BEKASI,GoFood,Selesai
+ORD-0102,2026-07-24 07:43,MN-04,4,Bekasi,GoFood,Batal
+ORD-0103,2026-07-04 21:34,MN-08,3,Jakarta Selatan,gofood ,Selesai
+ORD-0104,2026-06-18 09:10,MN-03,2, BEKASI,GoFood,Selesai
+ORD-0105,2026-09-07 12:42,MN-05,3,Jakarta Timur,gofood ,Selesai
+ORD-0106,2026-07-04 11:40,MN-06,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0107,2026-08-11 14:39,MN-05,1, BEKASI,GoFood,Selesai
+ORD-0108,2026-07-15 13:59,MN-08,3,Bekasi,,Selesai
+ORD-0109,05/09/2026 11:39,MN-01,3, BEKASI,gofood ,Selesai
+ORD-0110,20/07/2026 11:52,MN-06,1,Jakarta Timur,GrabFood,Selesai
+ORD-0111,2026-10-28 22:00,MN-07,1, BEKASI,GoFood,Selesai
+ORD-0112,2026-06-07 10:50,MN-02,2, BEKASI,Takeaway,Batal
+ORD-0113,2026-06-12 16:13,MN-08,4,Bekasi,Dine-In,Selesai
+ORD-0114,2026-10-29 09:05,MN-04,4, BEKASI,gofood ,Selesai
+ORD-0115,2026-06-28 09:56,MN-05,1,Jakarta Selatan,gofood ,Selesai
+ORD-0116,2026-09-11 14:32,MN-02,3,,GrabFood,Batal
+ORD-0117,2026-07-14 21:08,MN-06,2,Bekasi,GrabFood,Selesai
+ORD-0118,2026-10-10 08:13,MN-02,4,jakarta timur ,GrabFood,Batal
+ORD-0119,26/07/2026 09:28,MN-01,4,Jakarta Timur,GrabFood,Selesai
+ORD-0120,2026-07-28 17:24,MN-03,3, BEKASI,Dine-In,Selesai
+ORD-0121,2026-10-21 19:57,MN-07,25,Jakarta Selatan,Dine-In,Selesai
+ORD-0122,2026-08-15 21:23,MN-08,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0123,2026-10-12 17:32,MN-01,3,,Takeaway,Selesai
+ORD-0124,2026-09-05 17:02,MN-05,2, BEKASI,GrabFood,Selesai
+ORD-0125,2026-06-23 22:33,MN-04,2,jakarta timur ,GrabFood,Batal
+ORD-0126,2026-09-24 11:03,MN-02,2,Bekasi,Takeaway,Selesai
+ORD-0127,2026-08-05 15:22,MN-01,4, BEKASI,GoFood,Selesai
+ORD-0128,14/06/2026 18:14,MN-08,2,,gofood ,Selesai
+ORD-0129,2026-10-12 20:50,MN-06,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0130,2026-07-07 10:51,MN-03,1,Bekasi,GoFood,Selesai
+ORD-0131,2026-06-20 14:42,MN-03,1, BEKASI,gofood ,Selesai
+ORD-0132,2026-10-08 10:57,MN-05,4,Bekasi,GoFood,Batal
+ORD-0133,2026-09-19 09:13,MN-05,4,,GoFood,Selesai
+ORD-0134,2026-06-04 12:38,MN-02,1, BEKASI,Takeaway,Batal
+ORD-0135,2026-09-23 12:12,MN-07,4,jakarta timur ,Dine-In,Batal
+ORD-0136,2026-08-26 19:16,MN-01,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0137,2026-10-26 13:11,MN-06,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0138,08/06/2026 20:28,MN-06,3,Jakarta Selatan,Takeaway,Batal
+ORD-0139,30/07/2026 10:21,MN-05,17,,GrabFood,Selesai
+ORD-0140,2026-10-17 09:52,MN-04,2,jakarta timur ,GrabFood,Selesai
+ORD-0141,2026-08-18 19:29,MN-08,3, BEKASI,Takeaway,Selesai
+ORD-0142,2026-09-04 13:37,MN-03,4,jakarta timur ,GoFood,Selesai
+ORD-0143,22/07/2026 15:11,MN-06,3,jakarta timur ,Takeaway,Selesai
+ORD-0144,2026-09-11 12:25,MN-02,1,Jakarta Selatan,gofood ,Selesai
+ORD-0145,2026-06-09 10:03,MN-04,3,Bekasi,GoFood,Selesai
+ORD-0146,2026-07-01 10:07,MN-07,4, BEKASI,Dine-In,Selesai
+ORD-0147,2026-08-28 11:18,MN-04,2,Jakarta Timur,GoFood,Selesai
+ORD-0148,2026-07-20 18:40,MN-02,3,,GoFood,Selesai
+ORD-0149,2026-10-15 09:36,MN-05,4,Jakarta Timur,gofood ,Selesai
+ORD-0150,06/07/2026 12:53,MN-06,4,Jakarta Selatan,GrabFood,Selesai
+ORD-0151,2026-09-20 13:37,MN-08,4, BEKASI,Takeaway,Selesai
+ORD-0152,2026-07-14 21:34,MN-05,4,Bekasi,Dine-In,Batal
+ORD-0153,2026-06-14 20:24,MN-01,3,Jakarta Timur,Takeaway,Selesai
+ORD-0154,2026-09-18 21:13,MN-02,2,Jakarta Timur,Dine-In,Selesai
+ORD-0155,2026-09-09 12:02,MN-01,4,,GoFood,Batal
+ORD-0156,29/10/2026 10:33,MN-05,3,,gofood ,Selesai
+ORD-0157,2026-09-30 12:29,MN-08,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0158,2026-08-29 17:01,MN-04,2,jakarta timur ,Dine-In,Batal
+ORD-0159,14/10/2026 17:40,MN-02,1,Bekasi,GoFood,Selesai
+ORD-0160,2026-07-05 19:45,MN-02,3,Jakarta Selatan,GrabFood,Batal
+ORD-0161,03/07/2026 11:26,MN-01,3, BEKASI,Takeaway,Batal
+ORD-0162,2026-09-10 19:12,MN-07,1,jakarta timur ,Dine-In,Selesai
+ORD-0163,2026-09-11 07:06,MN-06,3,Jakarta Selatan,gofood ,Batal
+ORD-0164,2026-10-08 20:01,MN-08,3,Jakarta Timur,Dine-In,Batal
+ORD-0165,03/06/2026 17:58,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0166,2026-07-19 22:22,MN-02,2,jakarta timur ,Takeaway,Selesai
+ORD-0167,2026-06-06 16:31,MN-03,3,Bekasi,Dine-In,Batal
+ORD-0168,10/09/2026 14:47,MN-04,1,jakarta timur ,Takeaway,Batal
+ORD-0169,18/06/2026 19:13,MN-08,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0170,2026-08-27 14:46,MN-08,4,jakarta timur ,gofood ,Selesai
+ORD-0171,2026-06-19 09:46,MN-03,2,,Dine-In,Selesai
+ORD-0172,2026-07-10 14:15,MN-02,1,,GrabFood,Selesai
+ORD-0173,17/08/2026 16:48,MN-04,1,jakarta timur ,gofood ,Batal
+ORD-0174,2026-06-05 19:52,MN-06,4,Bekasi,GrabFood,Selesai
+ORD-0175,2026-08-07 20:21,MN-04,1,Bekasi,GrabFood,Selesai
+ORD-0176,2026-07-21 20:40,MN-03,4,jakarta timur ,gofood ,Selesai
+ORD-0177,2026-09-29 12:46,MN-06,1,,Takeaway,Selesai
+ORD-0178,2026-08-19 09:22,MN-02,3,Jakarta Selatan,GoFood,Batal
+ORD-0179,2026-09-25 10:28,MN-05,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0180,2026-07-12 10:15,MN-08,1, BEKASI,GoFood,Batal
+ORD-0181,2026-06-14 10:56,MN-02,3,Jakarta Selatan,Takeaway,Selesai
+ORD-0182,2026-06-25 15:28,MN-03,1,Jakarta Timur,gofood ,Selesai
+ORD-0183,01/09/2026 08:42,MN-02,2,Jakarta Timur,GrabFood,Selesai
+ORD-0184,2026-06-22 16:06,MN-08,1,jakarta timur ,Takeaway,Selesai
+ORD-0185,2026-07-10 07:18,MN-04,2,,gofood ,Selesai
+ORD-0186,2026-07-01 18:35,MN-01,2,Bekasi,Takeaway,Selesai
+ORD-0187,10/10/2026 18:05,MN-01,3, BEKASI,gofood ,Selesai
+ORD-0188,27/10/2026 07:10,MN-05,2,,Takeaway,Batal
+ORD-0189,2026-07-20 19:55,MN-02,4,Bekasi,GoFood,Selesai
+ORD-0190,2026-10-18 17:43,MN-08,3,Jakarta Selatan,gofood ,Selesai
+ORD-0191,2026-10-04 15:25,MN-01,19,jakarta timur ,GrabFood,Batal
+ORD-0192,2026-09-02 19:56,MN-05,4,,Takeaway,Selesai
+ORD-0193,2026-10-16 19:35,MN-03,4,jakarta timur ,Takeaway,Batal
+ORD-0194,2026-08-15 10:38,MN-08,1,jakarta timur ,gofood ,Selesai
+ORD-0195,2026-07-01 12:17,MN-08,1,Bekasi,GoFood,Selesai
+ORD-0196,2026-07-25 11:26,MN-01,2,Bekasi,GrabFood,Batal
+ORD-0197,02/07/2026 09:26,MN-03,4,jakarta timur ,Dine-In,Selesai
+ORD-0198,2026-07-21 07:18,MN-06,2,Jakarta Selatan,GrabFood,Selesai
+ORD-0199,2026-06-30 19:25,MN-03,1,jakarta timur ,GrabFood,Batal
+ORD-0200,2026-10-13 16:45,MN-05,4,Jakarta Selatan,GrabFood,Batal
+ORD-0201,2026-07-27 14:22,MN-02,3,,Takeaway,Selesai
+ORD-0202,2026-10-14 22:29,MN-04,3,Jakarta Timur,Dine-In,Selesai
+ORD-0203,2026-06-27 13:29,MN-07,4,Bekasi,Dine-In,Batal
+ORD-0204,2026-09-29 09:50,MN-04,2,Jakarta Selatan,GoFood,Batal
+ORD-0205,2026-06-14 22:35,MN-06,3,,Takeaway,Batal
+ORD-0206,2026-08-09 20:48,MN-03,1, BEKASI,Takeaway,Selesai
+ORD-0207,2026-08-15 16:35,MN-08,2,jakarta timur ,Dine-In,Batal
+ORD-0208,2026-06-13 07:53,MN-04,1,Jakarta Selatan,gofood ,Selesai
+ORD-0209,2026-06-17 09:06,MN-02,1, BEKASI,GrabFood,Selesai
+ORD-0210,2026-09-08 15:43,MN-06,4,Jakarta Timur,gofood ,Selesai
+ORD-0211,2026-10-25 09:45,MN-07,4, BEKASI,Dine-In,Batal
+ORD-0212,2026-07-28 20:34,MN-02,1,Bekasi,Dine-In,Selesai
+ORD-0213,2026-07-08 09:52,MN-01,3,jakarta timur ,gofood ,Selesai
+ORD-0214,2026-10-14 13:28,MN-06,1,Jakarta Timur,Takeaway,Selesai
+ORD-0215,2026-09-14 08:40,MN-01,1,Jakarta Timur,Dine-In,Selesai
+ORD-0216,2026-08-31 13:22,MN-07,2,,GoFood,Selesai
+ORD-0217,2026-07-12 11:45,MN-07,4,Jakarta Timur,Takeaway,Selesai
+ORD-0218,2026-06-11 17:19,MN-02,2,Jakarta Selatan,GrabFood,Selesai
+ORD-0219,2026-09-20 12:02,MN-02,1, BEKASI,,Selesai
+ORD-0220,2026-06-17 18:51,MN-02,1, BEKASI,Takeaway,Selesai
+ORD-0221,2026-06-06 10:49,MN-04,1, BEKASI,GrabFood,Selesai
+ORD-0222,2026-07-31 17:51,MN-07,2,jakarta timur ,GrabFood,Selesai
+ORD-0223,2026-08-16 12:39,MN-01,3,Bekasi,gofood ,Selesai
+ORD-0224,22/10/2026 13:18,MN-06,1,jakarta timur ,GrabFood,Selesai
+ORD-0225,2026-06-20 12:17,MN-01,4,Jakarta Timur,GoFood,Selesai
+ORD-0226,2026-07-15 21:49,MN-01,2,Jakarta Selatan,gofood ,Selesai
+ORD-0227,2026-06-14 15:42,MN-03,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0228,2026-10-03 13:05,MN-03,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0229,2026-08-02 18:34,MN-04,2, BEKASI,Dine-In,Batal
+ORD-0230,2026-08-08 10:56,MN-04,1, BEKASI,Dine-In,Batal
+ORD-0231,2026-10-08 17:06,MN-02,1,jakarta timur ,GoFood,Batal
+ORD-0232,2026-08-28 21:20,MN-01,3,Jakarta Timur,gofood ,Selesai
+ORD-0233,2026-10-24 18:04,MN-03,1,jakarta timur ,,Selesai
+ORD-0234,2026-07-11 07:41,MN-07,3,,GrabFood,Selesai
+ORD-0235,12/09/2026 16:46,MN-01,2,Bekasi,Takeaway,Selesai
+ORD-0236,2026-10-07 15:12,MN-01,2,Jakarta Selatan,gofood ,Selesai
+ORD-0237,2026-10-26 17:36,MN-04,4, BEKASI,,Selesai
+ORD-0238,2026-09-26 19:07,MN-04,1,Jakarta Timur,Takeaway,Selesai
+ORD-0239,2026-06-11 10:55,MN-05,3,Jakarta Selatan,GoFood,Selesai
+ORD-0240,2026-09-07 19:34,MN-06,3,Jakarta Selatan,gofood ,Selesai
+ORD-0241,2026-06-06 21:31,MN-05,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0242,2026-10-29 18:02,MN-05,4,jakarta timur ,GoFood,Batal
+ORD-0243,10/08/2026 14:42,MN-08,3,Jakarta Selatan,Dine-In,Batal
+ORD-0244,2026-09-13 22:27,MN-07,4, BEKASI,GrabFood,Selesai
+ORD-0245,01/06/2026 20:08,MN-03,2, BEKASI,gofood ,Batal
+ORD-0246,2026-08-18 20:36,MN-05,1,,gofood ,Selesai
+ORD-0247,2026-09-17 13:38,MN-08,2, BEKASI,Dine-In,Selesai
+ORD-0248,2026-09-05 15:17,MN-03,1,,Dine-In,Selesai
+ORD-0249,2026-07-12 20:44,MN-05,4, BEKASI,GrabFood,Batal
+ORD-0250,2026-07-21 22:15,MN-02,3,jakarta timur ,GrabFood,Selesai
+ORD-0251,2026-09-02 08:24,MN-04,2, BEKASI,GrabFood,Batal
+ORD-0252,2026-07-23 12:07,MN-05,2,Jakarta Timur,GrabFood,Batal
+ORD-0253,2026-08-20 10:04,MN-03,2,Bekasi,Takeaway,Batal
+ORD-0254,2026-10-26 15:31,MN-05,1,Jakarta Timur,Takeaway,Selesai
+ORD-0255,2026-06-05 16:00,MN-05,4,Bekasi,GoFood,Selesai
+ORD-0256,27/08/2026 07:34,MN-08,1,Jakarta Timur,gofood ,Selesai
+ORD-0257,2026-08-14 17:12,MN-04,1,Bekasi,gofood ,Batal
+ORD-0258,15/07/2026 12:44,MN-06,4, BEKASI,GoFood,Batal
+ORD-0259,2026-10-27 19:24,MN-03,3,,Dine-In,Batal
+ORD-0260,2026-08-30 09:02,MN-06,1, BEKASI,Takeaway,Selesai
+ORD-0261,2026-06-09 20:52,MN-05,25,,GrabFood,Batal
+ORD-0262,2026-08-20 20:56,MN-06,2,Jakarta Timur,Dine-In,Selesai
+ORD-0263,07/07/2026 16:45,MN-08,3,,Dine-In,Batal
+ORD-0264,2026-09-21 18:28,MN-06,2,,GrabFood,Selesai
+ORD-0265,2026-07-29 22:50,MN-07,1,Bekasi,Takeaway,Selesai
+ORD-0266,30/07/2026 20:45,MN-08,1,Jakarta Timur,Takeaway,Selesai
+ORD-0267,2026-10-11 20:29,MN-07,3,Bekasi,GrabFood,Selesai
+ORD-0268,2026-10-03 07:44,MN-08,2,Jakarta Timur,GoFood,Batal
+ORD-0269,2026-06-15 13:24,MN-04,4, BEKASI,Takeaway,Selesai
+ORD-0270,2026-08-02 10:07,MN-05,2, BEKASI,GoFood,Selesai
+ORD-0271,09/10/2026 10:07,MN-07,1,,gofood ,Selesai
+ORD-0272,2026-07-02 16:04,MN-04,4,Jakarta Timur,Dine-In,Selesai
+ORD-0273,2026-08-06 17:37,MN-04,1, BEKASI,Dine-In,Selesai
+ORD-0274,2026-09-13 08:23,MN-06,1,jakarta timur ,gofood ,Selesai
+ORD-0275,2026-07-10 15:34,MN-02,4,Jakarta Timur,gofood ,Selesai
+ORD-0276,23/09/2026 12:43,MN-03,3, BEKASI,Dine-In,Selesai
+ORD-0277,2026-09-15 22:23,MN-07,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0278,2026-07-22 11:09,MN-08,4,Jakarta Selatan,gofood ,Selesai
+ORD-0279,10/09/2026 10:37,MN-04,2,,Dine-In,Selesai
+ORD-0280,2026-08-20 15:18,MN-03,2,Bekasi,GoFood,Batal
+ORD-0281,11/09/2026 21:16,MN-04,1,Jakarta Timur,Dine-In,Selesai
+ORD-0282,2026-10-11 18:57,MN-06,3,Bekasi,Dine-In,Selesai
+ORD-0283,2026-08-07 18:57,MN-05,4,Bekasi,GoFood,Selesai
+ORD-0284,2026-10-03 14:40,MN-06,3,Bekasi,GoFood,Selesai
+ORD-0285,2026-09-18 08:30,MN-04,3,Bekasi,GrabFood,Selesai
+ORD-0286,2026-07-20 22:53,MN-04,1,Jakarta Timur,gofood ,Selesai
+ORD-0287,2026-06-18 15:57,MN-06,4,Jakarta Selatan,gofood ,Selesai
+ORD-0288,2026-06-30 10:02,MN-08,3, BEKASI,GrabFood,Selesai
+ORD-0289,2026-07-26 21:39,MN-08,4,,GoFood,Batal
+ORD-0290,2026-09-12 12:29,MN-08,1,Jakarta Timur,GoFood,Selesai
+ORD-0291,2026-07-16 20:14,MN-04,1,Jakarta Timur,Takeaway,Selesai
+ORD-0292,2026-08-06 12:51,MN-05,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0293,2026-09-16 16:51,MN-06,3, BEKASI,GrabFood,Batal
+ORD-0294,2026-06-12 13:46,MN-02,2,Jakarta Selatan,GoFood,Selesai
+ORD-0295,2026-09-02 17:16,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0296,2026-08-12 17:03,MN-01,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0297,2026-08-19 16:14,MN-06,3,,GrabFood,Selesai
+ORD-0298,2026-10-02 11:43,MN-08,4,,GoFood,Selesai
+ORD-0299,2026-06-16 07:53,MN-03,2,Bekasi,gofood ,Selesai
+ORD-0300,2026-10-27 22:39,MN-08,4,Bekasi,,Batal
+ORD-0301,2026-10-02 11:08,MN-07,2,,Dine-In,Batal
+ORD-0302,2026-10-11 22:16,MN-03,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0303,2026-06-25 20:50,MN-01,3,,GoFood,Selesai
+ORD-0304,2026-09-30 12:31,MN-04,1,Bekasi,Dine-In,Selesai
+ORD-0305,2026-08-31 21:34,MN-02,18,jakarta timur ,Takeaway,Selesai
+ORD-0306,2026-06-21 22:07,MN-01,1,Jakarta Timur,GoFood,Selesai
+ORD-0307,2026-09-01 13:18,MN-02,3,Bekasi,GrabFood,Selesai
+ORD-0308,2026-07-22 12:08,MN-01,1, BEKASI,Takeaway,Selesai
+ORD-0309,2026-07-20 22:46,MN-05,1,,Dine-In,Selesai
+ORD-0310,2026-06-16 21:11,MN-08,3,,gofood ,Selesai
+ORD-0311,2026-09-02 22:01,MN-05,1,jakarta timur ,GoFood,Selesai
+ORD-0312,2026-09-09 09:10,MN-04,4, BEKASI,Dine-In,Selesai
+ORD-0313,2026-08-03 19:47,MN-03,4,Jakarta Timur,Dine-In,Selesai
+ORD-0314,2026-07-07 16:24,MN-04,3,jakarta timur ,GrabFood,Selesai
+ORD-0315,2026-08-09 12:09,MN-07,1,jakarta timur ,GoFood,Selesai
+ORD-0316,27/07/2026 15:28,MN-07,2,Jakarta Selatan,gofood ,Selesai
+ORD-0317,22/06/2026 12:13,MN-07,1,Bekasi,gofood ,Selesai
+ORD-0318,2026-08-30 14:55,MN-03,4, BEKASI,GoFood,Batal
+ORD-0319,2026-08-01 16:22,MN-04,2, BEKASI,GoFood,Selesai
+ORD-0320,2026-10-06 12:25,MN-07,3,jakarta timur ,Takeaway,Batal
+ORD-0321,2026-07-30 08:27,MN-08,2,jakarta timur ,Takeaway,Selesai
+ORD-0322,2026-08-13 10:31,MN-05,2,Jakarta Selatan,Dine-In,Batal
+ORD-0323,2026-08-15 12:32,MN-04,4,,GrabFood,Batal
+ORD-0324,2026-09-01 17:16,MN-05,4, BEKASI,Takeaway,Selesai
+ORD-0325,2026-07-02 09:18,MN-06,4,jakarta timur ,Takeaway,Selesai
+ORD-0326,2026-10-01 18:26,MN-01,2,Jakarta Timur,Dine-In,Selesai
+ORD-0327,2026-08-21 09:46,MN-08,3,Jakarta Selatan,GoFood,Selesai
+ORD-0328,2026-09-03 16:04,MN-08,4,,GoFood,Batal
+ORD-0329,2026-09-05 21:09,MN-06,4,jakarta timur ,GoFood,Batal
+ORD-0330,2026-08-08 22:21,MN-08,4,Bekasi,Takeaway,Selesai
+ORD-0331,2026-07-23 21:24,MN-04,3, BEKASI,GoFood,Selesai
+ORD-0332,2026-07-12 07:06,MN-05,3,Jakarta Timur,gofood ,Selesai
+ORD-0333,2026-10-09 11:14,MN-02,1,Jakarta Selatan,Dine-In,Selesai
+ORD-0334,2026-08-31 22:34,MN-02,3,Jakarta Selatan,GoFood,Selesai
+ORD-0335,2026-06-12 16:12,MN-03,3, BEKASI,GrabFood,Selesai
+ORD-0336,05/10/2026 21:53,MN-03,2, BEKASI,GoFood,Selesai
+ORD-0337,11/10/2026 19:49,MN-04,4,Bekasi,Dine-In,Selesai
+ORD-0338,2026-07-27 18:31,MN-05,2,,Takeaway,Selesai
+ORD-0339,2026-07-03 09:27,MN-06,3,Bekasi,,Selesai
+ORD-0340,2026-09-14 12:41,MN-04,3,Bekasi,gofood ,Selesai
+ORD-0341,2026-08-12 13:21,MN-06,3,Jakarta Timur,Dine-In,Selesai
+ORD-0342,2026-07-25 17:41,MN-07,2,,GoFood,Selesai
+ORD-0343,02/09/2026 15:16,MN-02,2,jakarta timur ,gofood ,Selesai
+ORD-0344,2026-07-07 08:17,MN-08,2,,Takeaway,Selesai
+ORD-0345,24/07/2026 11:15,MN-01,3, BEKASI,GoFood,Selesai
+ORD-0346,2026-09-24 21:40,MN-01,4,,GrabFood,Selesai
+ORD-0347,2026-07-21 11:12,MN-05,1,Jakarta Timur,Takeaway,Batal
+ORD-0348,2026-07-11 11:11,MN-05,1,,GoFood,Selesai
+ORD-0349,2026-10-16 17:20,MN-03,2,Jakarta Selatan,,Selesai
+ORD-0350,2026-07-22 15:06,MN-07,3,Bekasi,Dine-In,Selesai
+ORD-0351,12/09/2026 15:03,MN-03,1,jakarta timur ,,Selesai
+ORD-0352,2026-07-30 17:53,MN-06,2,,gofood ,Batal
+ORD-0353,2026-08-13 13:28,MN-08,2,,Dine-In,Selesai
+ORD-0354,2026-09-09 21:59,MN-06,1,,GoFood,Selesai
+ORD-0355,2026-08-25 08:12,MN-03,3,Jakarta Selatan,gofood ,Selesai
+ORD-0356,2026-06-24 15:42,MN-04,1, BEKASI,GrabFood,Selesai
+ORD-0357,2026-07-14 12:08,MN-08,3,Jakarta Timur,gofood ,Batal
+ORD-0358,2026-10-09 16:49,MN-08,3,,gofood ,Batal
+ORD-0359,2026-07-31 07:48,MN-06,4,jakarta timur ,Dine-In,Selesai
+ORD-0360,2026-10-16 20:09,MN-07,2,Bekasi,GoFood,Batal
+ORD-0361,2026-07-15 09:08,MN-07,4,Jakarta Timur,GrabFood,Selesai
+ORD-0362,2026-09-04 11:09,MN-06,4,jakarta timur ,gofood ,Selesai
+ORD-0363,2026-06-17 16:00,MN-05,3,Bekasi,GoFood,Batal
+ORD-0364,2026-08-04 18:53,MN-04,1,Jakarta Timur,GoFood,Selesai
+ORD-0365,2026-06-27 13:01,MN-07,3,Bekasi,Takeaway,Selesai
+ORD-0366,2026-08-18 21:48,MN-08,3,Bekasi,Dine-In,Selesai
+ORD-0367,09/08/2026 11:25,MN-01,3,Bekasi,GrabFood,Selesai
+ORD-0368,30/06/2026 21:22,MN-07,4,Bekasi,GoFood,Batal
+ORD-0369,2026-10-19 14:57,MN-08,1,Bekasi,gofood ,Selesai
+ORD-0370,2026-06-01 12:01,MN-06,1, BEKASI,GrabFood,Selesai
+ORD-0371,2026-07-23 22:08,MN-06,4,,Dine-In,Selesai
+ORD-0372,2026-09-11 18:56,MN-05,2,Jakarta Timur,GrabFood,Selesai
+ORD-0373,2026-08-22 12:09,MN-05,4, BEKASI,GoFood,Selesai
+ORD-0374,2026-06-14 16:13,MN-05,1,jakarta timur ,Dine-In,Selesai
+ORD-0375,2026-07-09 16:55,MN-04,2,Jakarta Selatan,GoFood,Selesai
+ORD-0376,2026-10-03 21:08,MN-01,3,,gofood ,Selesai
+ORD-0377,24/06/2026 17:55,MN-02,4, BEKASI,Dine-In,Selesai
+ORD-0378,27/06/2026 08:21,MN-05,3,Jakarta Selatan,gofood ,Selesai
+ORD-0379,2026-06-05 09:59,MN-02,3,Jakarta Timur,GrabFood,Selesai
+ORD-0380,2026-06-29 09:28,MN-08,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0381,2026-07-16 07:01,MN-04,2,,gofood ,Selesai
+ORD-0382,2026-08-19 08:51,MN-01,3,,gofood ,Batal
+ORD-0383,2026-08-28 08:16,MN-04,2, BEKASI,Dine-In,Batal
+ORD-0384,2026-10-02 15:34,MN-06,4,Jakarta Selatan,GrabFood,Selesai
+ORD-0385,2026-10-05 15:20,MN-02,2,Bekasi,gofood ,Selesai
+ORD-0386,2026-08-01 07:47,MN-03,3,Jakarta Timur,gofood ,Selesai
+ORD-0387,2026-10-10 13:35,MN-04,4, BEKASI,GrabFood,Selesai
+ORD-0388,14/10/2026 16:17,MN-04,3,,gofood ,Selesai
+ORD-0389,06/07/2026 22:53,MN-03,4,jakarta timur ,GrabFood,Selesai
+ORD-0390,2026-07-14 10:22,MN-08,1,Jakarta Selatan,GoFood,Selesai
+ORD-0391,2026-07-18 16:14,MN-05,4,,GoFood,Selesai
+ORD-0392,2026-10-21 10:20,MN-02,1,jakarta timur ,Dine-In,Selesai
+ORD-0393,2026-10-25 10:40,MN-06,2,Bekasi,GrabFood,Selesai
+ORD-0394,2026-09-10 07:58,MN-04,2,jakarta timur ,GoFood,Selesai
+ORD-0395,2026-08-02 18:27,MN-08,1,,Takeaway,Selesai
+ORD-0396,2026-09-18 13:56,MN-01,4,Jakarta Selatan,GoFood,Selesai
+ORD-0397,2026-07-12 22:23,MN-03,4,Jakarta Timur,Takeaway,Selesai
+ORD-0398,2026-10-18 13:19,MN-05,4,Jakarta Timur,GoFood,Batal
+ORD-0399,25/06/2026 09:18,MN-08,3,Bekasi,GoFood,Selesai
+ORD-0400,02/10/2026 17:32,MN-06,3, BEKASI,,Selesai
+ORD-0401,31/08/2026 13:05,MN-05,4, BEKASI,Takeaway,Selesai
+ORD-0402,31/07/2026 17:03,MN-05,2,,GoFood,Batal
+ORD-0403,2026-07-02 16:22,MN-06,2,,gofood ,Selesai
+ORD-0404,2026-08-13 10:42,MN-02,3,,GrabFood,Selesai
+ORD-0405,2026-08-26 15:12,MN-06,4,,gofood ,Selesai
+ORD-0406,2026-09-05 15:23,MN-02,1, BEKASI,Dine-In,Selesai
+ORD-0407,2026-08-17 09:45,MN-05,2,Jakarta Selatan,GoFood,Selesai
+ORD-0408,2026-09-06 15:54,MN-05,3,Jakarta Timur,GoFood,Selesai
+ORD-0409,2026-10-12 09:46,MN-07,2,Bekasi,Dine-In,Batal
+ORD-0410,2026-08-14 08:01,MN-02,2,jakarta timur ,GoFood,Selesai
+ORD-0411,2026-08-29 13:46,MN-04,1,jakarta timur ,GrabFood,Selesai
+ORD-0412,2026-07-10 17:56,MN-04,2,Jakarta Timur,GoFood,Selesai
+ORD-0413,08/07/2026 08:42,MN-05,4,,GoFood,Selesai
+ORD-0414,2026-07-13 22:22,MN-01,1,Bekasi,gofood ,Batal
+ORD-0415,2026-07-10 09:19,MN-01,4,Jakarta Timur,GrabFood,Selesai
+ORD-0416,2026-10-09 14:04,MN-06,2,,Takeaway,Selesai
+ORD-0417,01/07/2026 18:28,MN-04,4,,Takeaway,Selesai
+ORD-0418,2026-07-24 17:51,MN-04,3,Jakarta Timur,Dine-In,Selesai
+ORD-0419,2026-08-05 19:50,MN-03,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0420,2026-08-05 09:03,MN-07,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0421,2026-06-26 12:57,MN-04,1, BEKASI,GoFood,Selesai
+ORD-0422,2026-08-06 21:29,MN-05,3, BEKASI,Takeaway,Selesai
+ORD-0423,2026-06-28 18:32,MN-08,3,Bekasi,Takeaway,Selesai
+ORD-0424,2026-06-29 15:33,MN-03,2,Bekasi,Takeaway,Selesai
+ORD-0425,2026-09-07 15:01,MN-01,4,Bekasi,gofood ,Selesai
+ORD-0426,07/06/2026 09:32,MN-07,3,jakarta timur ,GrabFood,Selesai
+ORD-0427,26/07/2026 22:11,MN-07,1,,GrabFood,Batal
+ORD-0428,2026-06-24 15:27,MN-06,3,jakarta timur ,Takeaway,Selesai
+ORD-0429,2026-06-19 17:05,MN-01,4,,gofood ,Selesai
+ORD-0430,04/09/2026 17:20,MN-02,4,,GoFood,Selesai
+ORD-0431,2026-10-04 12:43,MN-08,4, BEKASI,gofood ,Batal
+ORD-0432,2026-07-27 21:14,MN-03,4,,GoFood,Selesai
+ORD-0433,2026-06-29 18:55,MN-04,4,Bekasi,Takeaway,Selesai
+ORD-0434,2026-07-07 22:45,MN-03,2,Bekasi,gofood ,Selesai
+ORD-0435,2026-06-29 07:29,MN-05,3,Jakarta Timur,Dine-In,Selesai
+ORD-0436,2026-10-16 09:37,MN-07,1,,gofood ,Selesai
+ORD-0437,2026-10-28 19:05,MN-07,3,,,Selesai
+ORD-0438,2026-09-02 08:30,MN-03,3, BEKASI,,Selesai
+ORD-0439,2026-08-24 17:57,MN-01,4,jakarta timur ,Dine-In,Selesai
+ORD-0440,2026-07-24 16:36,MN-02,3, BEKASI,GoFood,Selesai
+ORD-0441,2026-06-21 22:16,MN-02,2,jakarta timur ,gofood ,Selesai
+ORD-0442,06/07/2026 18:54,MN-03,1,Jakarta Selatan,GoFood,Selesai
+ORD-0443,2026-06-07 19:52,MN-01,2,jakarta timur ,Dine-In,Selesai
+ORD-0444,2026-10-08 16:23,MN-05,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0445,2026-08-29 13:05,MN-06,1,,GoFood,Selesai
+ORD-0446,2026-07-16 21:07,MN-04,1,,GoFood,Selesai
+ORD-0447,2026-07-31 16:13,MN-05,2,Jakarta Timur,GrabFood,Selesai
+ORD-0448,12/07/2026 18:54,MN-04,3,Jakarta Timur,GoFood,Selesai
+ORD-0449,2026-06-16 12:21,MN-07,3,Jakarta Selatan,Takeaway,Batal
+ORD-0450,2026-07-21 17:39,MN-07,4,Bekasi,GrabFood,Selesai
+ORD-0451,2026-09-26 18:55,MN-06,3,Jakarta Selatan,gofood ,Batal
+ORD-0452,19/07/2026 14:15,MN-07,4,Bekasi,gofood ,Batal
+ORD-0453,2026-08-09 17:46,MN-04,2,Jakarta Timur,Takeaway,Selesai
+ORD-0454,2026-10-09 21:15,MN-08,2,,,Selesai
+ORD-0455,07/09/2026 20:55,MN-03,4,Jakarta Timur,gofood ,Selesai
+ORD-0456,30/07/2026 12:16,MN-07,4,Jakarta Timur,Dine-In,Selesai
+ORD-0457,2026-09-19 22:48,MN-06,2, BEKASI,GoFood,Selesai
+ORD-0458,2026-09-21 11:18,MN-04,2,,GoFood,Batal
+ORD-0459,31/08/2026 10:01,MN-07,1,Jakarta Timur,GrabFood,Selesai
+ORD-0460,20/10/2026 20:25,MN-04,4,,GrabFood,Selesai
+ORD-0461,2026-10-09 15:26,MN-08,2,,Dine-In,Selesai
+ORD-0462,2026-10-06 14:43,MN-04,3,Jakarta Timur,Dine-In,Selesai
+ORD-0463,2026-08-10 10:58,MN-01,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0464,2026-10-27 19:31,MN-06,3,Jakarta Timur,GoFood,Selesai
+ORD-0465,2026-10-12 07:30,MN-07,3,jakarta timur ,GrabFood,Selesai
+ORD-0466,2026-10-06 14:39,MN-07,1,Jakarta Timur,,Batal
+ORD-0467,2026-07-25 09:14,MN-03,3,jakarta timur ,GrabFood,Selesai
+ORD-0468,2026-08-01 12:30,MN-07,2,Bekasi,GoFood,Selesai
+ORD-0469,12/10/2026 15:39,MN-01,1,,gofood ,Selesai
+ORD-0470,2026-07-28 20:42,MN-03,2, BEKASI,gofood ,Selesai
+ORD-0471,2026-09-03 11:55,MN-02,1,Bekasi,Dine-In,Selesai
+ORD-0472,2026-07-24 22:16,MN-02,3,Bekasi,GoFood,Selesai
+ORD-0473,2026-06-03 21:14,MN-02,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0474,08/06/2026 14:16,MN-04,2,,Takeaway,Selesai
+ORD-0475,2026-07-20 10:46,MN-08,4, BEKASI,Takeaway,Selesai
+ORD-0476,2026-10-04 16:24,MN-02,2,Jakarta Selatan,gofood ,Batal
+ORD-0477,12/09/2026 16:57,MN-04,2,Jakarta Selatan,gofood ,Batal
+ORD-0478,2026-08-15 13:04,MN-06,4,Bekasi,Dine-In,Selesai
+ORD-0479,2026-10-22 10:03,MN-03,3,,,Batal
+ORD-0480,2026-08-20 22:58,MN-06,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0481,2026-10-20 08:56,MN-04,1,Jakarta Selatan,gofood ,Selesai
+ORD-0482,2026-08-18 21:19,MN-06,2,Jakarta Timur,gofood ,Selesai
+ORD-0483,2026-09-22 14:34,MN-02,4,,GrabFood,Selesai
+ORD-0484,2026-09-18 15:38,MN-07,4, BEKASI,gofood ,Selesai
+ORD-0485,2026-08-23 15:32,MN-07,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0486,2026-09-10 07:15,MN-07,2,jakarta timur ,GrabFood,Selesai
+ORD-0487,2026-08-13 10:27,MN-06,3, BEKASI,Dine-In,Selesai
+ORD-0488,2026-07-22 17:29,MN-06,2,Jakarta Timur,GrabFood,Selesai
+ORD-0489,2026-09-09 18:12,MN-07,4,Jakarta Timur,gofood ,Batal
+ORD-0490,2026-09-07 15:42,MN-02,1,,,Selesai
+ORD-0491,2026-06-26 14:18,MN-01,2,Jakarta Timur,gofood ,Batal
+ORD-0492,2026-08-21 19:33,MN-05,4, BEKASI,Dine-In,Selesai
+ORD-0493,2026-07-09 10:10,MN-07,2, BEKASI,Takeaway,Selesai
+ORD-0494,14/08/2026 20:48,MN-01,1,jakarta timur ,GoFood,Selesai
+ORD-0495,2026-09-25 19:44,MN-03,4,Bekasi,GoFood,Selesai
+ORD-0496,2026-08-10 17:19,MN-06,4,Jakarta Selatan,gofood ,Selesai
+ORD-0497,2026-09-27 17:38,MN-02,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0498,2026-06-03 20:43,MN-01,3,Bekasi,GoFood,Selesai
+ORD-0499,27/08/2026 16:29,MN-01,4,,Dine-In,Selesai
+ORD-0500,25/10/2026 14:20,MN-04,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0501,2026-10-22 11:33,MN-08,3,jakarta timur ,Takeaway,Selesai
+ORD-0502,2026-06-15 07:58,MN-05,3, BEKASI,gofood ,Selesai
+ORD-0503,02/06/2026 13:44,MN-06,1, BEKASI,Dine-In,Batal
+ORD-0504,2026-08-06 09:23,MN-08,3,Bekasi,GrabFood,Selesai
+ORD-0505,2026-09-24 07:19,MN-01,3,Jakarta Timur,gofood ,Selesai
+ORD-0506,2026-06-28 11:47,MN-05,4, BEKASI,Dine-In,Selesai
+ORD-0507,14/10/2026 17:02,MN-05,3,jakarta timur ,Takeaway,Selesai
+ORD-0508,24/08/2026 13:57,MN-06,4,Jakarta Selatan,gofood ,Selesai
+ORD-0509,18/08/2026 12:47,MN-01,4,Jakarta Timur,gofood ,Selesai
+ORD-0510,2026-06-18 07:14,MN-01,1,,gofood ,Selesai
+ORD-0511,2026-10-25 14:44,MN-02,4,Jakarta Selatan,GoFood,Selesai
+ORD-0512,2026-08-14 21:45,MN-04,4, BEKASI,Dine-In,Selesai
+ORD-0513,2026-10-26 11:55,MN-08,3,jakarta timur ,Takeaway,Selesai
+ORD-0514,2026-06-02 22:39,MN-04,4,jakarta timur ,Takeaway,Selesai
+ORD-0515,2026-09-04 16:51,MN-03,1,Jakarta Timur,GoFood,Batal
+ORD-0516,2026-10-26 08:13,MN-07,1,jakarta timur ,Dine-In,Selesai
+ORD-0517,23/09/2026 10:38,MN-07,3,jakarta timur ,Takeaway,Selesai
+ORD-0518,2026-09-03 09:29,MN-01,1, BEKASI,GoFood,Selesai
+ORD-0519,23/08/2026 18:11,MN-02,4, BEKASI,GrabFood,Selesai
+ORD-0520,07/07/2026 08:40,MN-05,3,jakarta timur ,Takeaway,Batal
+ORD-0521,2026-06-14 14:59,MN-04,3,Bekasi,GoFood,Selesai
+ORD-0522,2026-08-18 22:42,MN-08,1,Bekasi,gofood ,Batal
+ORD-0523,2026-08-30 22:27,MN-02,2,Jakarta Timur,Dine-In,Selesai
+ORD-0524,2026-07-28 17:07,MN-03,2,,GoFood,Selesai
+ORD-0525,2026-07-13 19:54,MN-04,4,Bekasi,GrabFood,Selesai
+ORD-0526,2026-09-02 20:33,MN-06,4,,GoFood,Selesai
+ORD-0527,2026-06-04 21:27,MN-08,3, BEKASI,gofood ,Selesai
+ORD-0528,2026-08-29 08:55,MN-07,1, BEKASI,GoFood,Selesai
+ORD-0529,2026-09-20 16:11,MN-04,1,Bekasi,Takeaway,Selesai
+ORD-0530,2026-06-23 09:31,MN-02,3,Jakarta Timur,Takeaway,Selesai
+ORD-0531,2026-08-20 18:41,MN-03,4,,Dine-In,Selesai
+ORD-0532,2026-09-18 13:07,MN-02,4,Bekasi,Takeaway,Selesai
+ORD-0533,2026-10-12 20:26,MN-07,4, BEKASI,Dine-In,Selesai
+ORD-0534,2026-10-24 08:05,MN-03,2,Jakarta Timur,Takeaway,Selesai
+ORD-0535,2026-08-27 12:24,MN-07,2,jakarta timur ,Takeaway,Selesai
+ORD-0536,2026-09-23 15:11,MN-06,1, BEKASI,gofood ,Selesai
+ORD-0537,2026-06-17 18:40,MN-05,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0538,15/10/2026 07:01,MN-05,1,Bekasi,Takeaway,Selesai
+ORD-0539,2026-10-12 12:13,MN-03,4,Jakarta Selatan,Dine-In,Selesai
+ORD-0540,2026-08-27 14:18,MN-08,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0541,2026-07-13 11:54,MN-01,1,,gofood ,Selesai
+ORD-0542,25/07/2026 15:13,MN-03,2,Jakarta Selatan,gofood ,Selesai
+ORD-0543,2026-06-10 07:07,MN-03,2,Jakarta Timur,Takeaway,Selesai
+ORD-0544,09/10/2026 17:24,MN-06,2,Bekasi,gofood ,Selesai
+ORD-0545,2026-07-14 07:36,MN-04,2,Jakarta Timur,Takeaway,Selesai
+ORD-0546,25/07/2026 15:31,MN-01,2, BEKASI,GoFood,Selesai
+ORD-0547,2026-10-06 17:24,MN-04,1,Jakarta Timur,gofood ,Batal
+ORD-0548,2026-10-29 13:07,MN-02,4,,gofood ,Batal
+ORD-0549,2026-06-20 08:19,MN-08,2,jakarta timur ,GoFood,Selesai
+ORD-0550,01/07/2026 07:17,MN-05,1, BEKASI,Dine-In,Batal
+ORD-0551,2026-09-08 14:17,MN-06,3,Bekasi,gofood ,Selesai
+ORD-0552,2026-06-21 19:34,MN-01,1, BEKASI,GoFood,Selesai
+ORD-0553,2026-06-11 07:48,MN-04,1,Jakarta Selatan,gofood ,Selesai
+ORD-0554,2026-07-19 21:17,MN-07,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0555,2026-08-21 17:41,MN-03,3,jakarta timur ,gofood ,Selesai
+ORD-0556,2026-07-18 22:54,MN-07,4, BEKASI,Dine-In,Selesai
+ORD-0557,24/07/2026 15:40,MN-01,3,jakarta timur ,GrabFood,Selesai
+ORD-0558,2026-07-30 16:01,MN-06,1,Jakarta Selatan,gofood ,Selesai
+ORD-0559,2026-06-16 14:35,MN-08,3,Jakarta Timur,GrabFood,Selesai
+ORD-0560,29/07/2026 11:49,MN-04,1, BEKASI,Dine-In,Selesai
+ORD-0561,2026-06-27 13:11,MN-07,4,Jakarta Selatan,GoFood,Selesai
+ORD-0562,2026-06-30 07:01,MN-08,2,,Dine-In,Selesai
+ORD-0563,2026-08-28 11:25,MN-04,1,Bekasi,Dine-In,Selesai
+ORD-0564,2026-07-06 12:34,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0565,2026-06-19 07:25,MN-04,1,jakarta timur ,gofood ,Selesai
+ORD-0566,2026-08-15 12:01,MN-02,3,,Takeaway,Selesai
+ORD-0567,2026-06-03 18:08,MN-06,2, BEKASI,,Selesai
+ORD-0568,2026-07-14 11:02,MN-04,4,,GrabFood,Selesai
+ORD-0569,2026-06-25 12:45,MN-03,1, BEKASI,gofood ,Selesai
+ORD-0570,2026-06-12 10:52,MN-06,1,Jakarta Timur,gofood ,Selesai
+ORD-0571,2026-08-15 14:28,MN-03,1,jakarta timur ,GrabFood,Selesai
+ORD-0572,2026-08-18 22:16,MN-03,2,jakarta timur ,gofood ,Selesai
+ORD-0573,2026-08-18 09:36,MN-05,4,Bekasi,Takeaway,Batal
+ORD-0574,2026-10-12 15:50,MN-03,3,Jakarta Selatan,GrabFood,Batal
+ORD-0575,2026-09-18 08:08,MN-02,1,Bekasi,gofood ,Selesai
+ORD-0576,20/08/2026 11:02,MN-07,3,Jakarta Timur,Takeaway,Selesai
+ORD-0577,2026-08-01 18:39,MN-01,1,,Takeaway,Selesai
+ORD-0578,2026-08-02 11:00,MN-08,4,Bekasi,GoFood,Selesai
+ORD-0579,2026-07-24 10:53,MN-05,1, BEKASI,GoFood,Selesai
+ORD-0580,2026-06-19 13:15,MN-02,24,Jakarta Timur,Dine-In,Selesai
+ORD-0581,21/09/2026 12:23,MN-07,2, BEKASI,Takeaway,Selesai
+ORD-0582,2026-08-11 11:51,MN-06,2, BEKASI,GrabFood,Selesai
+ORD-0583,2026-08-16 09:08,MN-01,3,Bekasi,Dine-In,Selesai
+ORD-0584,2026-10-21 19:51,MN-08,2,jakarta timur ,Takeaway,Selesai
+ORD-0585,2026-10-07 20:02,MN-06,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0586,2026-10-17 18:39,MN-01,3, BEKASI,gofood ,Selesai
+ORD-0587,2026-10-19 08:27,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0588,2026-06-15 13:29,MN-07,1, BEKASI,GoFood,Selesai
+ORD-0589,2026-06-24 12:25,MN-07,2, BEKASI,GrabFood,Batal
+ORD-0590,2026-07-01 21:35,MN-04,2,Bekasi,Dine-In,Selesai
+ORD-0591,2026-10-16 20:13,MN-04,2,,gofood ,Selesai
+ORD-0592,2026-07-27 20:12,MN-07,3,,GrabFood,Selesai
+ORD-0593,2026-10-04 08:28,MN-06,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0594,2026-08-02 22:14,MN-03,4,Bekasi,GrabFood,Selesai
+ORD-0595,2026-06-10 08:34,MN-08,1,,Takeaway,Batal
+ORD-0596,2026-06-29 10:09,MN-06,4,jakarta timur ,Dine-In,Selesai
+ORD-0597,2026-08-21 21:04,MN-06,3,Jakarta Selatan,Dine-In,Batal
+ORD-0598,2026-09-08 10:44,MN-04,3, BEKASI,Takeaway,Selesai
+ORD-0599,2026-09-09 21:46,MN-06,2,Bekasi,GrabFood,Selesai
+ORD-0600,2026-08-19 08:48,MN-06,3,jakarta timur ,GrabFood,Selesai
+ORD-0601,14/08/2026 12:47,MN-03,2,Bekasi,Takeaway,Selesai
+ORD-0602,2026-06-10 13:47,MN-08,1, BEKASI,GoFood,Batal
+ORD-0603,2026-08-01 12:52,MN-07,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0604,2026-06-19 15:50,MN-04,4,jakarta timur ,GoFood,Selesai
+ORD-0605,2026-09-02 15:38,MN-08,2, BEKASI,gofood ,Selesai
+ORD-0606,2026-09-08 15:57,MN-07,3,,GrabFood,Selesai
+ORD-0607,2026-06-03 18:10,MN-07,3,Jakarta Timur,,Selesai
+ORD-0608,2026-08-17 12:45,MN-07,3,Jakarta Timur,Dine-In,Selesai
+ORD-0609,2026-10-25 16:41,MN-04,2, BEKASI,Dine-In,Batal
+ORD-0610,2026-10-19 21:00,MN-03,1,Jakarta Timur,GoFood,Selesai
+ORD-0611,2026-08-24 22:55,MN-01,2, BEKASI,GrabFood,Selesai
+ORD-0612,2026-10-01 14:37,MN-04,1, BEKASI,GrabFood,Selesai
+ORD-0613,2026-08-22 12:50,MN-05,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0614,2026-06-26 07:30,MN-04,4,,,Batal
+ORD-0615,2026-07-15 16:47,MN-03,4,jakarta timur ,gofood ,Selesai
+ORD-0616,2026-07-15 10:37,MN-06,2, BEKASI,gofood ,Batal
+ORD-0617,2026-10-20 14:04,MN-07,2,jakarta timur ,Dine-In,Batal
+ORD-0618,2026-07-08 22:24,MN-03,3,Jakarta Selatan,gofood ,Selesai
+ORD-0619,20/07/2026 13:01,MN-04,3, BEKASI,GoFood,Selesai
+ORD-0620,2026-10-20 20:34,MN-01,3,Jakarta Selatan,Takeaway,Selesai
+ORD-0621,2026-09-29 13:40,MN-08,2,Jakarta Selatan,GoFood,Selesai
+ORD-0622,2026-06-16 10:08,MN-01,1,Jakarta Timur,,Selesai
+ORD-0623,16/06/2026 11:15,MN-06,1, BEKASI,GoFood,Selesai
+ORD-0624,2026-06-07 14:17,MN-06,4,Bekasi,gofood ,Selesai
+ORD-0625,2026-07-07 08:59,MN-02,3, BEKASI,GoFood,Selesai
+ORD-0626,2026-07-18 14:16,MN-04,4, BEKASI,GrabFood,Batal
+ORD-0627,2026-06-16 20:27,MN-07,3,,gofood ,Selesai
+ORD-0628,30/06/2026 14:11,MN-04,1,,gofood ,Selesai
+ORD-0629,2026-08-30 17:26,MN-08,1,,GrabFood,Selesai
+ORD-0630,2026-08-15 14:47,MN-03,4,jakarta timur ,Dine-In,Selesai
+ORD-0631,2026-10-08 11:39,MN-01,4,jakarta timur ,gofood ,Selesai
+ORD-0632,2026-07-12 21:25,MN-05,3,,Dine-In,Selesai
+ORD-0633,2026-09-20 09:07,MN-03,3,Jakarta Timur,gofood ,Selesai
+ORD-0634,2026-09-02 08:52,MN-05,4,Jakarta Selatan,Dine-In,Batal
+ORD-0635,2026-09-17 12:14,MN-07,1, BEKASI,Dine-In,Selesai
+ORD-0636,2026-10-21 10:48,MN-08,2,jakarta timur ,Dine-In,Selesai
+ORD-0637,2026-10-01 16:56,MN-04,3,Jakarta Timur,Takeaway,Selesai
+ORD-0638,2026-09-23 10:26,MN-06,2,Jakarta Selatan,GoFood,Selesai
+ORD-0639,2026-10-14 17:17,MN-04,3, BEKASI,gofood ,Selesai
+ORD-0640,2026-07-03 20:50,MN-06,4,Jakarta Timur,GoFood,Selesai
+ORD-0641,2026-07-04 10:55,MN-01,4,Jakarta Selatan,GoFood,Selesai
+ORD-0642,2026-08-22 16:08,MN-02,2,Bekasi,Takeaway,Selesai
+ORD-0643,2026-09-17 18:40,MN-04,3,Jakarta Timur,GrabFood,Batal
+ORD-0644,2026-08-30 08:57,MN-02,3,Bekasi,GoFood,Selesai
+ORD-0645,2026-09-08 13:06,MN-07,2, BEKASI,GoFood,Selesai
+ORD-0646,2026-10-10 08:24,MN-01,2,,Dine-In,Batal
+ORD-0647,08/10/2026 22:35,MN-06,3,,Takeaway,Selesai
+ORD-0648,2026-10-11 16:27,MN-04,2,Bekasi,GoFood,Selesai
+ORD-0649,2026-09-04 07:57,MN-02,3,Jakarta Selatan,gofood ,Selesai
+ORD-0650,2026-10-21 14:35,MN-05,4,Jakarta Selatan,GoFood,Selesai
+ORD-0651,18/09/2026 10:27,MN-01,1,,gofood ,Selesai
+ORD-0652,25/10/2026 11:42,MN-05,4,,gofood ,Selesai
+ORD-0653,2026-06-24 20:46,MN-04,3,Bekasi,Takeaway,Selesai
+ORD-0654,29/08/2026 22:26,MN-05,3,Bekasi,Dine-In,Batal
+ORD-0655,2026-08-26 10:47,MN-05,4,Jakarta Selatan,gofood ,Selesai
+ORD-0656,28/09/2026 22:51,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0657,2026-07-31 22:08,MN-02,2,,Dine-In,Batal
+ORD-0658,2026-07-11 10:26,MN-03,2,,GoFood,Selesai
+ORD-0659,2026-06-24 07:05,MN-02,1,,gofood ,Selesai
+ORD-0660,2026-10-27 09:06,MN-01,4,,GoFood,Selesai
+ORD-0661,2026-09-20 11:44,MN-04,1,Jakarta Selatan,gofood ,Selesai
+ORD-0662,2026-09-13 11:28,MN-03,3,Jakarta Timur,gofood ,Batal
+ORD-0663,2026-10-04 22:51,MN-03,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0664,2026-08-28 12:21,MN-01,3, BEKASI,gofood ,Batal
+ORD-0665,2026-06-20 13:57,MN-08,1,,Dine-In,Selesai
+ORD-0666,2026-07-12 07:25,MN-01,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0667,17/10/2026 17:59,MN-08,3,,Dine-In,Selesai
+ORD-0668,2026-06-02 22:55,MN-08,2,jakarta timur ,GoFood,Selesai
+ORD-0669,2026-08-21 15:43,MN-03,1,Jakarta Timur,Dine-In,Selesai
+ORD-0670,22/07/2026 20:47,MN-06,1,jakarta timur ,GrabFood,Batal
+ORD-0671,2026-06-12 09:29,MN-05,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0672,2026-08-27 08:45,MN-02,4,,Takeaway,Selesai
+ORD-0673,06/07/2026 19:25,MN-08,1,,Dine-In,Batal
+ORD-0674,2026-10-19 20:05,MN-04,2,jakarta timur ,GoFood,Selesai
+ORD-0675,2026-07-18 11:38,MN-01,4,Bekasi,Dine-In,Selesai
+ORD-0676,2026-07-29 22:49,MN-02,30, BEKASI,Takeaway,Batal
+ORD-0677,13/10/2026 15:03,MN-08,2,,gofood ,Selesai
+ORD-0678,2026-08-17 18:59,MN-03,4, BEKASI,GoFood,Selesai
+ORD-0679,18/10/2026 14:38,MN-01,1,,GrabFood,Selesai
+ORD-0680,2026-10-27 09:52,MN-04,2,jakarta timur ,Dine-In,Selesai
+ORD-0681,2026-07-22 08:33,MN-01,3,jakarta timur ,,Selesai
+ORD-0682,2026-06-11 07:01,MN-04,2,jakarta timur ,Dine-In,Selesai
+ORD-0683,2026-08-12 09:00,MN-05,3,Jakarta Timur,GrabFood,Selesai
+ORD-0684,2026-09-07 10:40,MN-03,3,Bekasi,GoFood,Selesai
+ORD-0685,06/08/2026 21:21,MN-01,3,Bekasi,GoFood,Selesai
+ORD-0686,2026-10-17 19:48,MN-03,4,Jakarta Selatan,GrabFood,Selesai
+ORD-0687,2026-08-09 11:21,MN-02,2, BEKASI,Takeaway,Selesai
+ORD-0688,2026-08-10 13:52,MN-02,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0689,2026-06-20 13:12,MN-05,4,Jakarta Timur,Dine-In,Selesai
+ORD-0690,2026-06-03 12:34,MN-03,1,jakarta timur ,gofood ,Selesai
+ORD-0691,2026-06-14 09:45,MN-01,2,Jakarta Selatan,GrabFood,Selesai
+ORD-0692,2026-09-19 13:43,MN-07,3,Jakarta Timur,gofood ,Selesai
+ORD-0693,10/07/2026 19:16,MN-04,2, BEKASI,GoFood,Selesai
+ORD-0694,2026-09-27 12:42,MN-03,4,Jakarta Selatan,gofood ,Batal
+ORD-0695,2026-09-08 20:09,MN-03,4,Jakarta Timur,Dine-In,Selesai
+ORD-0696,2026-07-12 14:03,MN-04,3,jakarta timur ,Takeaway,Selesai
+ORD-0697,2026-06-30 18:34,MN-08,2,Bekasi,Dine-In,Selesai
+ORD-0698,2026-08-28 07:33,MN-08,2,Bekasi,GrabFood,Batal
+ORD-0699,2026-07-10 10:17,MN-03,1, BEKASI,Dine-In,Selesai
+ORD-0700,08/10/2026 07:33,MN-02,2,,Dine-In,Selesai
+ORD-0701,2026-06-30 09:35,MN-06,3,Jakarta Timur,GrabFood,Selesai
+ORD-0702,2026-07-20 22:45,MN-05,1, BEKASI,GoFood,Selesai
+ORD-0703,2026-06-29 14:37,MN-02,3,Jakarta Selatan,GrabFood,Batal
+ORD-0704,2026-07-08 22:50,MN-05,1,,GrabFood,Selesai
+ORD-0705,2026-08-31 09:16,MN-06,2,Jakarta Selatan,GrabFood,Batal
+ORD-0706,2026-07-13 16:43,MN-03,4,jakarta timur ,gofood ,Selesai
+ORD-0707,2026-08-24 21:43,MN-05,1,jakarta timur ,GrabFood,Selesai
+ORD-0708,06/06/2026 15:36,MN-06,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0709,2026-08-05 14:02,MN-03,1,Bekasi,Takeaway,Batal
+ORD-0710,2026-09-15 16:10,MN-04,1,jakarta timur ,Dine-In,Selesai
+ORD-0711,2026-08-07 19:53,MN-03,1,,Takeaway,Selesai
+ORD-0712,2026-06-20 08:15,MN-06,3,Bekasi,gofood ,Selesai
+ORD-0713,2026-08-04 09:09,MN-02,2,Jakarta Selatan,GrabFood,Batal
+ORD-0714,2026-07-26 22:32,MN-02,1,,Dine-In,Selesai
+ORD-0715,2026-08-25 22:50,MN-08,3,Jakarta Selatan,GoFood,Selesai
+ORD-0716,23/07/2026 12:37,MN-01,2,Bekasi,Takeaway,Selesai
+ORD-0717,2026-06-25 09:22,MN-03,2, BEKASI,Dine-In,Selesai
+ORD-0718,2026-07-28 16:30,MN-04,3,jakarta timur ,GrabFood,Selesai
+ORD-0719,2026-09-30 19:56,MN-04,3,,gofood ,Selesai
+ORD-0720,2026-09-03 14:29,MN-02,3,,GoFood,Selesai
+ORD-0721,2026-08-24 18:27,MN-08,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0722,02/07/2026 20:55,MN-02,4,,GoFood,Selesai
+ORD-0723,2026-10-05 12:21,MN-04,1,Jakarta Timur,Dine-In,Selesai
+ORD-0724,2026-10-12 18:31,MN-01,2,Jakarta Selatan,gofood ,Batal
+ORD-0725,2026-10-10 13:24,MN-07,1,Bekasi,GrabFood,Selesai
+ORD-0726,19/08/2026 10:29,MN-03,4,jakarta timur ,Dine-In,Selesai
+ORD-0727,2026-10-17 22:17,MN-06,3, BEKASI,gofood ,Selesai
+ORD-0728,26/07/2026 10:18,MN-01,3,Jakarta Timur,Takeaway,Selesai
+ORD-0729,07/08/2026 08:26,MN-07,3,Jakarta Selatan,GoFood,Selesai
+ORD-0730,2026-10-17 22:32,MN-03,2,jakarta timur ,gofood ,Selesai
+ORD-0731,2026-07-20 18:54,MN-01,1, BEKASI,Dine-In,Batal
+ORD-0732,2026-10-27 21:23,MN-04,2,Jakarta Selatan,GoFood,Batal
+ORD-0733,2026-09-09 13:03,MN-07,3, BEKASI,Takeaway,Selesai
+ORD-0734,09/07/2026 13:44,MN-05,1,Bekasi,gofood ,Batal
+ORD-0735,2026-08-31 07:42,MN-06,1,jakarta timur ,,Selesai
+ORD-0736,2026-09-06 10:46,MN-08,3,,Takeaway,Selesai
+ORD-0737,11/09/2026 12:33,MN-08,3,Bekasi,Takeaway,Batal
+ORD-0738,2026-10-01 12:46,MN-07,3,Jakarta Timur,GoFood,Batal
+ORD-0739,2026-09-06 13:47,MN-01,2, BEKASI,GoFood,Selesai
+ORD-0740,2026-10-03 10:12,MN-08,2, BEKASI,Takeaway,Selesai
+ORD-0741,09/07/2026 12:59,MN-07,1,Jakarta Timur,Dine-In,Selesai
+ORD-0742,2026-06-10 20:01,MN-02,3,jakarta timur ,GoFood,Selesai
+ORD-0743,2026-07-16 12:16,MN-06,2,jakarta timur ,GrabFood,Selesai
+ORD-0744,07/06/2026 09:19,MN-01,2,,Takeaway,Selesai
+ORD-0745,06/10/2026 12:42,MN-04,4, BEKASI,GrabFood,Selesai
+ORD-0746,2026-07-09 17:25,MN-03,2,Jakarta Timur,gofood ,Selesai
+ORD-0747,18/08/2026 22:21,MN-05,1, BEKASI,GoFood,Selesai
+ORD-0748,2026-10-17 19:42,MN-05,3,Jakarta Selatan,gofood ,Batal
+ORD-0749,2026-10-28 11:24,MN-08,1,Jakarta Timur,GoFood,Batal
+ORD-0750,01/07/2026 22:10,MN-06,1,Bekasi,Takeaway,Batal
+ORD-0751,2026-10-01 21:06,MN-03,1, BEKASI,GoFood,Batal
+ORD-0752,2026-08-19 20:10,MN-07,2,Bekasi,GrabFood,Batal
+ORD-0753,2026-08-08 09:36,MN-07,3,Bekasi,Dine-In,Selesai
+ORD-0754,2026-07-27 07:39,MN-08,2,Jakarta Selatan,,Selesai
+ORD-0755,2026-09-02 17:05,MN-02,3,Jakarta Timur,GrabFood,Selesai
+ORD-0756,2026-10-08 14:54,MN-04,4,jakarta timur ,GoFood,Selesai
+ORD-0757,2026-10-18 07:56,MN-04,1,,GoFood,Batal
+ORD-0758,26/10/2026 19:51,MN-08,4,Jakarta Selatan,gofood ,Selesai
+ORD-0759,21/06/2026 14:03,MN-03,16,,gofood ,Selesai
+ORD-0760,2026-07-11 12:25,MN-01,4,Jakarta Timur,Takeaway,Selesai
+ORD-0761,2026-07-31 13:27,MN-07,3,Bekasi,GoFood,Selesai
+ORD-0762,2026-09-08 19:06,MN-01,2,Jakarta Timur,Dine-In,Selesai
+ORD-0763,2026-09-27 09:08,MN-08,3,Jakarta Selatan,gofood ,Selesai
+ORD-0764,12/07/2026 07:41,MN-01,4,Jakarta Timur,Dine-In,Selesai
+ORD-0765,2026-06-03 08:22,MN-03,2,Jakarta Timur,GrabFood,Selesai
+ORD-0766,2026-08-19 07:50,MN-07,3,Bekasi,Takeaway,Selesai
+ORD-0767,2026-06-01 18:29,MN-06,3,Jakarta Selatan,GoFood,Selesai
+ORD-0768,2026-08-02 22:26,MN-07,3,jakarta timur ,Takeaway,Selesai
+ORD-0769,15/09/2026 09:48,MN-04,3,Jakarta Selatan,Takeaway,Batal
+ORD-0770,2026-08-17 11:52,MN-03,1,Jakarta Selatan,GoFood,Selesai
+ORD-0771,2026-10-03 21:45,MN-03,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0772,2026-06-26 08:06,MN-06,2,jakarta timur ,Takeaway,Selesai
+ORD-0773,20/08/2026 11:06,MN-08,2,,gofood ,Selesai
+ORD-0774,2026-08-11 17:06,MN-01,3, BEKASI,Dine-In,Selesai
+ORD-0775,2026-08-07 19:11,MN-07,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0776,2026-10-09 07:46,MN-03,2,jakarta timur ,GoFood,Batal
+ORD-0777,2026-10-23 10:00,MN-03,3,Bekasi,GoFood,Selesai
+ORD-0778,2026-09-22 09:09,MN-06,2,jakarta timur ,gofood ,Selesai
+ORD-0779,2026-06-30 15:24,MN-03,1, BEKASI,Dine-In,Selesai
+ORD-0780,2026-07-03 14:32,MN-06,1,jakarta timur ,gofood ,Selesai
+ORD-0781,09/06/2026 22:24,MN-08,4, BEKASI,gofood ,Selesai
+ORD-0782,2026-10-27 17:08,MN-01,2,,GoFood,Selesai
+ORD-0783,2026-09-11 16:13,MN-08,23,Jakarta Timur,Dine-In,Selesai
+ORD-0784,2026-10-01 11:19,MN-07,4,,GoFood,Selesai
+ORD-0785,2026-08-08 19:33,MN-05,2,Jakarta Timur,gofood ,Batal
+ORD-0786,03/06/2026 15:37,MN-05,4, BEKASI,,Selesai
+ORD-0787,2026-08-12 12:54,MN-04,1,Bekasi,Takeaway,Selesai
+ORD-0788,2026-08-26 14:33,MN-04,3,Jakarta Timur,Takeaway,Selesai
+ORD-0789,2026-06-12 07:17,MN-05,4,Bekasi,Dine-In,Selesai
+ORD-0790,10/08/2026 11:55,MN-01,4,,gofood ,Selesai
+ORD-0791,2026-08-31 13:42,MN-01,2, BEKASI,GoFood,Selesai
+ORD-0792,2026-08-17 19:38,MN-04,2,,gofood ,Batal
+ORD-0793,2026-07-26 15:35,MN-01,2, BEKASI,Dine-In,Selesai
+ORD-0794,2026-07-29 14:35,MN-02,4,Bekasi,,Selesai
+ORD-0795,2026-06-28 19:34,MN-08,1,Jakarta Selatan,Dine-In,Selesai
+ORD-0796,03/08/2026 15:26,MN-08,1, BEKASI,gofood ,Batal
+ORD-0797,2026-10-03 17:32,MN-05,4, BEKASI,,Batal
+ORD-0798,2026-08-07 08:38,MN-05,3, BEKASI,Dine-In,Selesai
+ORD-0799,13/10/2026 16:39,MN-07,3,Jakarta Selatan,GoFood,Selesai
+ORD-0800,2026-07-01 09:24,MN-07,1,,Takeaway,Selesai
+ORD-0801,2026-07-18 17:27,MN-07,3,,GrabFood,Selesai
+ORD-0802,2026-07-12 14:30,MN-02,3,Bekasi,,Selesai
+ORD-0803,2026-08-27 08:43,MN-01,2,,gofood ,Selesai
+ORD-0804,30/06/2026 22:55,MN-01,4,,gofood ,Batal
+ORD-0805,28/10/2026 20:26,MN-05,2, BEKASI,Dine-In,Selesai
+ORD-0806,2026-08-21 21:14,MN-05,2,jakarta timur ,gofood ,Selesai
+ORD-0807,2026-06-09 07:52,MN-06,3,,GoFood,Batal
+ORD-0808,2026-06-16 14:00,MN-06,3, BEKASI,GrabFood,Selesai
+ORD-0809,2026-10-15 17:36,MN-08,2,,Dine-In,Selesai
+ORD-0810,2026-10-09 21:41,MN-05,3,Jakarta Selatan,GoFood,Selesai
+ORD-0811,2026-07-26 07:15,MN-01,1,Bekasi,Dine-In,Selesai
+ORD-0812,2026-08-04 20:33,MN-01,1,jakarta timur ,Dine-In,Batal
+ORD-0813,2026-07-27 12:38,MN-06,3,,Takeaway,Selesai
+ORD-0814,06/07/2026 17:38,MN-08,3,Jakarta Timur,GoFood,Selesai
+ORD-0815,21/10/2026 17:44,MN-05,2, BEKASI,GoFood,Selesai
+ORD-0816,2026-08-07 10:54,MN-02,2, BEKASI,GrabFood,Batal
+ORD-0817,2026-08-07 17:17,MN-06,1, BEKASI,GoFood,Selesai
+ORD-0818,2026-10-02 13:36,MN-01,3,Jakarta Selatan,Dine-In,Selesai
+ORD-0819,2026-07-17 14:45,MN-01,4,jakarta timur ,Takeaway,Batal
+ORD-0820,2026-10-06 22:18,MN-03,2,,gofood ,Selesai
+ORD-0821,2026-10-17 16:58,MN-07,4,Bekasi,Takeaway,Selesai
+ORD-0822,19/06/2026 18:08,MN-07,2,jakarta timur ,Takeaway,Batal
+ORD-0823,2026-06-12 15:23,MN-01,3,jakarta timur ,GrabFood,Selesai
+ORD-0824,2026-08-09 07:02,MN-04,2,,GrabFood,Selesai
+ORD-0825,2026-09-17 13:32,MN-08,2, BEKASI,GrabFood,Batal
+ORD-0826,2026-06-27 14:06,MN-01,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0827,28/07/2026 13:43,MN-04,3,,gofood ,Selesai
+ORD-0828,2026-08-19 22:19,MN-08,4,,Dine-In,Selesai
+ORD-0829,2026-08-29 13:56,MN-05,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0830,2026-07-22 22:13,MN-08,4,Bekasi,GoFood,Selesai
+ORD-0831,25/10/2026 14:10,MN-07,4,,Takeaway,Selesai
+ORD-0832,2026-10-25 10:07,MN-01,3, BEKASI,GoFood,Selesai
+ORD-0833,2026-06-09 14:15,MN-05,4,Jakarta Timur,Dine-In,Selesai
+ORD-0834,2026-08-05 10:50,MN-04,4,Bekasi,Takeaway,Selesai
+ORD-0835,2026-10-17 11:24,MN-06,1,Bekasi,Takeaway,Selesai
+ORD-0836,2026-07-11 11:32,MN-08,3,,Dine-In,Batal
+ORD-0837,2026-10-06 19:42,MN-06,3,jakarta timur ,gofood ,Selesai
+ORD-0838,19/10/2026 18:28,MN-04,3,jakarta timur ,GrabFood,Selesai
+ORD-0839,2026-06-07 07:43,MN-02,4,jakarta timur ,Takeaway,Selesai
+ORD-0840,2026-09-10 11:20,MN-04,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0841,2026-06-28 08:34,MN-01,2,Jakarta Timur,Takeaway,Selesai
+ORD-0842,2026-10-05 09:31,MN-05,1,Bekasi,GrabFood,Selesai
+ORD-0843,2026-08-19 09:27,MN-02,4,Jakarta Timur,gofood ,Batal
+ORD-0844,2026-09-26 21:06,MN-03,2,Jakarta Timur,Takeaway,Batal
+ORD-0845,2026-09-24 22:55,MN-08,4,,gofood ,Selesai
+ORD-0846,2026-06-10 21:10,MN-01,2,Jakarta Selatan,GoFood,Selesai
+ORD-0847,2026-07-05 21:55,MN-05,1, BEKASI,Dine-In,Selesai
+ORD-0848,2026-09-14 18:03,MN-07,4,Bekasi,Takeaway,Selesai
+ORD-0849,2026-06-28 17:02,MN-01,2,,GoFood,Selesai
+ORD-0850,2026-06-01 14:57,MN-05,3,jakarta timur ,Takeaway,Selesai
+ORD-0851,2026-10-08 18:30,MN-05,1,,Dine-In,Selesai
+ORD-0852,2026-09-19 12:23,MN-02,2,Bekasi,gofood ,Selesai
+ORD-0853,2026-10-12 12:02,MN-05,4,jakarta timur ,GoFood,Selesai
+ORD-0854,10/06/2026 14:46,MN-07,3,Bekasi,Dine-In,Selesai
+ORD-0855,2026-07-03 16:59,MN-06,1,jakarta timur ,Dine-In,Selesai
+ORD-0856,2026-10-01 10:37,MN-05,4,Bekasi,Dine-In,Batal
+ORD-0857,2026-10-15 15:20,MN-08,1, BEKASI,Takeaway,Selesai
+ORD-0858,2026-06-24 19:00,MN-01,2,jakarta timur ,,Selesai
+ORD-0859,2026-06-11 18:11,MN-02,1,jakarta timur ,GrabFood,Selesai
+ORD-0860,2026-10-18 12:32,MN-05,2,jakarta timur ,GrabFood,Selesai
+ORD-0861,2026-07-08 13:01,MN-08,4,,gofood ,Selesai
+ORD-0862,2026-10-25 18:39,MN-01,4,,GrabFood,Selesai
+ORD-0863,2026-10-23 21:55,MN-01,1,,GrabFood,Selesai
+ORD-0864,30/09/2026 15:48,MN-01,4,Bekasi,Dine-In,Batal
+ORD-0865,2026-08-08 12:33,MN-04,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0866,2026-07-18 13:28,MN-05,3,,Takeaway,Selesai
+ORD-0867,20/07/2026 14:39,MN-08,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0868,2026-06-25 20:25,MN-05,1,Bekasi,GoFood,Selesai
+ORD-0869,2026-09-16 10:47,MN-02,4,Jakarta Selatan,GoFood,Selesai
+ORD-0870,2026-08-24 09:16,MN-02,2,jakarta timur ,gofood ,Batal
+ORD-0871,08/10/2026 11:17,MN-02,4, BEKASI,Dine-In,Selesai
+ORD-0872,2026-06-29 15:43,MN-02,2,Bekasi,GrabFood,Selesai
+ORD-0873,2026-08-07 15:21,MN-04,2,jakarta timur ,GrabFood,Selesai
+ORD-0874,2026-07-04 11:43,MN-01,1,Bekasi,Takeaway,Selesai
+ORD-0875,2026-09-11 15:46,MN-08,2,jakarta timur ,gofood ,Batal
+ORD-0876,2026-08-21 09:09,MN-01,1,,Dine-In,Selesai
+ORD-0877,2026-10-14 22:45,MN-03,3,,GrabFood,Selesai
+ORD-0878,01/10/2026 18:18,MN-01,2, BEKASI,GoFood,Selesai
+ORD-0879,2026-06-10 15:17,MN-07,26,,Takeaway,Batal
+ORD-0880,04/09/2026 18:38,MN-07,2,Jakarta Timur,GrabFood,Selesai
+ORD-0881,2026-09-07 09:18,MN-01,1,jakarta timur ,GrabFood,Selesai
+ORD-0882,2026-09-23 09:47,MN-08,1,,Takeaway,Selesai
+ORD-0883,2026-09-18 15:21,MN-08,1, BEKASI,GoFood,Selesai
+ORD-0884,05/10/2026 14:17,MN-04,3,Bekasi,Dine-In,Batal
+ORD-0885,20/10/2026 10:35,MN-06,2,Bekasi,Dine-In,Selesai
+ORD-0886,2026-08-10 22:17,MN-06,1,Jakarta Selatan,Takeaway,Batal
+ORD-0887,2026-09-21 18:40,MN-03,4,jakarta timur ,GrabFood,Selesai
+ORD-0888,2026-06-19 15:55,MN-05,1,Jakarta Timur,gofood ,Batal
+ORD-0889,2026-09-11 07:28,MN-01,3,Jakarta Selatan,Takeaway,Selesai
+ORD-0890,2026-09-21 15:24,MN-01,3, BEKASI,gofood ,Batal
+ORD-0891,2026-07-04 11:42,MN-08,3,jakarta timur ,GoFood,Selesai
+ORD-0892,2026-06-25 14:13,MN-04,4,Jakarta Selatan,gofood ,Selesai
+ORD-0893,2026-06-16 19:53,MN-07,1,Jakarta Timur,Dine-In,Selesai
+ORD-0894,2026-10-04 15:03,MN-05,3,Jakarta Timur,Dine-In,Selesai
+ORD-0895,2026-07-18 07:11,MN-07,1, BEKASI,GoFood,Batal
+ORD-0896,15/09/2026 20:55,MN-01,1, BEKASI,Dine-In,Selesai
+ORD-0897,17/08/2026 09:51,MN-07,2,Jakarta Timur,GrabFood,Selesai
+ORD-0898,2026-08-08 17:59,MN-04,4,Jakarta Timur,GrabFood,Batal
+ORD-0899,2026-09-20 19:15,MN-04,3, BEKASI,Dine-In,Selesai
+ORD-0900,2026-08-17 19:53,MN-04,3,Jakarta Selatan,Takeaway,Batal
+ORD-0901,2026-06-15 16:35,MN-08,1,Bekasi,Dine-In,Selesai
+ORD-0902,2026-10-14 10:48,MN-03,4,,Dine-In,Selesai
+ORD-0903,2026-10-12 19:55,MN-06,4,jakarta timur ,Takeaway,Batal
+ORD-0904,27/10/2026 22:04,MN-08,4,Jakarta Selatan,gofood ,Selesai
+ORD-0905,2026-06-04 09:45,MN-05,4,Jakarta Timur,GrabFood,Selesai
+ORD-0906,2026-07-17 19:14,MN-05,2,,GrabFood,Selesai
+ORD-0907,2026-10-18 16:42,MN-04,4,,Dine-In,Selesai
+ORD-0908,2026-10-27 08:33,MN-05,2,Jakarta Timur,Dine-In,Selesai
+ORD-0909,2026-08-13 16:35,MN-03,4,jakarta timur ,Dine-In,Batal
+ORD-0910,12/09/2026 14:13,MN-08,2,,GoFood,Selesai
+ORD-0911,22/06/2026 09:29,MN-07,3, BEKASI,Dine-In,Selesai
+ORD-0912,25/09/2026 10:03,MN-07,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0913,2026-06-07 12:01,MN-07,2,Bekasi,Dine-In,Batal
+ORD-0914,2026-09-23 12:21,MN-07,2,jakarta timur ,Dine-In,Batal
+ORD-0915,2026-09-04 16:22,MN-04,4,jakarta timur ,Dine-In,Selesai
+ORD-0916,2026-08-07 12:37,MN-03,1,Jakarta Selatan,Dine-In,Selesai
+ORD-0917,2026-10-28 11:31,MN-08,3, BEKASI,GrabFood,Selesai
+ORD-0918,2026-06-08 07:03,MN-08,3,Jakarta Selatan,GoFood,Selesai
+ORD-0919,2026-06-04 15:08,MN-03,2,Jakarta Selatan,Takeaway,Selesai
+ORD-0920,2026-09-08 12:16,MN-07,4,,gofood ,Selesai
+ORD-0921,2026-06-03 22:32,MN-06,3, BEKASI,GoFood,Batal
+ORD-0922,2026-08-31 15:25,MN-08,2,jakarta timur ,GoFood,Batal
+ORD-0923,2026-07-22 09:23,MN-03,1, BEKASI,Takeaway,Selesai
+ORD-0924,2026-08-10 20:47,MN-02,1, BEKASI,gofood ,Selesai
+ORD-0925,2026-10-04 07:03,MN-01,4,jakarta timur ,Takeaway,Selesai
+ORD-0926,2026-08-01 16:00,MN-03,1,,GoFood,Selesai
+ORD-0927,2026-07-17 09:39,MN-03,3,Jakarta Timur,Dine-In,Selesai
+ORD-0928,2026-07-18 13:16,MN-02,4,,GoFood,Batal
+ORD-0929,2026-10-26 07:51,MN-04,2, BEKASI,Dine-In,Batal
+ORD-0930,2026-10-11 17:50,MN-08,1,,gofood ,Selesai
+ORD-0931,2026-10-07 14:43,MN-02,2, BEKASI,Takeaway,Selesai
+ORD-0932,2026-09-18 10:42,MN-07,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0933,2026-06-02 21:20,MN-02,1,Jakarta Timur,Dine-In,Selesai
+ORD-0934,09/06/2026 19:46,MN-05,4,jakarta timur ,GoFood,Selesai
+ORD-0935,2026-06-25 20:04,MN-02,2,Jakarta Selatan,Dine-In,Selesai
+ORD-0936,01/06/2026 18:35,MN-05,4,jakarta timur ,gofood ,Selesai
+ORD-0937,09/07/2026 18:35,MN-08,1,jakarta timur ,GrabFood,Selesai
+ORD-0938,2026-06-16 18:56,MN-04,1,jakarta timur ,GoFood,Selesai
+ORD-0939,2026-06-20 15:53,MN-02,3,jakarta timur ,Dine-In,Selesai
+ORD-0940,2026-08-02 16:43,MN-05,2,Bekasi,GoFood,Selesai
+ORD-0941,2026-06-08 09:36,MN-02,3, BEKASI,GrabFood,Selesai
+ORD-0942,2026-08-16 13:51,MN-08,4,Jakarta Selatan,Takeaway,Batal
+ORD-0943,2026-06-26 12:44,MN-04,4,,Takeaway,Selesai
+ORD-0944,2026-10-11 12:17,MN-04,1,Jakarta Selatan,,Selesai
+ORD-0945,2026-06-25 16:12,MN-06,4,Jakarta Timur,gofood ,Selesai
+ORD-0946,2026-06-11 18:22,MN-04,4,Bekasi,Takeaway,Selesai
+ORD-0947,20/08/2026 19:36,MN-02,2,,GoFood,Selesai
+ORD-0948,2026-09-20 21:19,MN-05,1, BEKASI,Takeaway,Selesai
+ORD-0949,2026-06-28 08:54,MN-02,3,Bekasi,GrabFood,Batal
+ORD-0950,2026-07-08 22:32,MN-08,1,Jakarta Selatan,GoFood,Selesai
+ORD-0951,11/10/2026 08:30,MN-02,1,jakarta timur ,Dine-In,Batal
+ORD-0952,2026-07-17 22:18,MN-01,1,jakarta timur ,gofood ,Selesai
+ORD-0953,07/06/2026 22:08,MN-07,1, BEKASI,GrabFood,Batal
+ORD-0954,2026-06-15 11:17,MN-06,3, BEKASI,Takeaway,Batal
+ORD-0955,2026-07-08 11:45,MN-03,3,Bekasi,Takeaway,Batal
+ORD-0956,2026-06-24 08:21,MN-07,4,Jakarta Timur,Dine-In,Selesai
+ORD-0957,2026-10-21 13:19,MN-07,2,,gofood ,Selesai
+ORD-0958,2026-07-07 15:31,MN-07,4, BEKASI,gofood ,Selesai
+ORD-0959,2026-07-04 21:11,MN-02,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0960,2026-08-27 07:08,MN-04,1, BEKASI,gofood ,Selesai
+ORD-0961,2026-10-26 13:25,MN-05,4, BEKASI,GoFood,Selesai
+ORD-0962,2026-06-25 17:34,MN-05,1,,GoFood,Selesai
+ORD-0963,2026-07-26 16:33,MN-06,3,,,Batal
+ORD-0964,2026-10-27 20:54,MN-03,3,jakarta timur ,GoFood,Selesai
+ORD-0965,2026-10-04 09:48,MN-06,2,Bekasi,GoFood,Batal
+ORD-0966,2026-06-30 18:44,MN-02,1,jakarta timur ,Takeaway,Selesai
+ORD-0967,2026-07-06 20:21,MN-03,2, BEKASI,Dine-In,Batal
+ORD-0968,2026-07-10 15:51,MN-02,2,Bekasi,Takeaway,Selesai
+ORD-0969,2026-09-17 15:41,MN-07,3,Bekasi,Takeaway,Selesai
+ORD-0970,2026-06-30 13:55,MN-03,1,Jakarta Selatan,Takeaway,Selesai
+ORD-0971,2026-06-24 14:33,MN-01,26,Jakarta Selatan,GoFood,Selesai
+ORD-0972,2026-08-15 10:33,MN-04,2,Bekasi,Dine-In,Selesai
+ORD-0973,2026-08-17 17:44,MN-03,2,jakarta timur ,Takeaway,Selesai
+ORD-0974,25/09/2026 15:43,MN-01,3,,gofood ,Selesai
+ORD-0975,15/06/2026 20:05,MN-07,3,Jakarta Timur,gofood ,Batal
+ORD-0976,16/09/2026 19:03,MN-08,2,jakarta timur ,Dine-In,Selesai
+ORD-0977,2026-09-03 13:49,MN-02,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0978,2026-07-26 18:03,MN-06,4,Bekasi,Dine-In,Selesai
+ORD-0979,2026-07-15 18:12,MN-06,3, BEKASI,Takeaway,Selesai
+ORD-0980,2026-10-11 20:29,MN-06,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0981,2026-10-18 19:29,MN-05,1,Jakarta Selatan,GrabFood,Selesai
+ORD-0982,2026-10-11 14:11,MN-03,3,Jakarta Timur,GrabFood,Selesai
+ORD-0983,05/09/2026 07:11,MN-01,1,Jakarta Timur,Dine-In,Batal
+ORD-0984,2026-10-23 20:10,MN-06,1,Jakarta Timur,GoFood,Selesai
+ORD-0985,2026-08-01 18:41,MN-06,1,Jakarta Timur,gofood ,Selesai
+ORD-0986,2026-10-16 07:13,MN-07,1,Jakarta Selatan,Takeaway,Batal
+ORD-0987,2026-07-29 21:24,MN-04,2,Jakarta Selatan,GrabFood,Selesai
+ORD-0988,02/08/2026 11:14,MN-03,1,Jakarta Timur,Dine-In,Batal
+ORD-0989,23/08/2026 19:18,MN-08,1, BEKASI,Dine-In,Batal
+ORD-0990,18/10/2026 15:42,MN-05,1,Jakarta Timur,GrabFood,Selesai
+ORD-0991,2026-07-07 18:45,MN-02,3,Jakarta Timur,Dine-In,Batal
+ORD-0992,28/10/2026 11:42,MN-01,4,Jakarta Timur,GoFood,Selesai
+ORD-0993,2026-06-29 22:45,MN-04,3,,GoFood,Selesai
+ORD-0994,2026-06-02 12:27,MN-01,3,jakarta timur ,Dine-In,Selesai
+ORD-0995,2026-09-08 15:13,MN-05,1, BEKASI,GrabFood,Selesai
+ORD-0996,16/08/2026 17:58,MN-01,2,jakarta timur ,GoFood,Selesai
+ORD-0997,2026-09-14 10:26,MN-07,1,Bekasi,GoFood,Batal
+ORD-0998,2026-06-30 08:48,MN-01,2,Jakarta Timur,Dine-In,Selesai
+ORD-0999,2026-08-07 20:28,MN-07,4,Jakarta Timur,GrabFood,Selesai
+ORD-1000,2026-10-20 12:38,MN-02,4,Jakarta Selatan,Takeaway,Selesai
+ORD-1001,2026-06-22 16:12,MN-08,3, BEKASI,Takeaway,Batal
+ORD-1002,2026-07-17 08:49,MN-02,3,Bekasi,GoFood,Batal
+ORD-1003,2026-07-04 08:22,MN-08,2, BEKASI,Takeaway,Selesai
+ORD-1004,2026-08-12 21:40,MN-07,3,Jakarta Timur,Takeaway,Selesai
+ORD-1005,2026-08-28 19:05,MN-02,3,Jakarta Timur,GoFood,Selesai
+ORD-1006,2026-10-25 22:55,MN-05,4,jakarta timur ,GrabFood,Selesai
+ORD-1007,2026-07-15 16:49,MN-07,3,,GrabFood,Selesai
+ORD-1008,2026-10-18 15:29,MN-05,2,Jakarta Timur,Dine-In,Selesai
+ORD-1009,2026-06-15 10:22,MN-03,26,Jakarta Selatan,Takeaway,Selesai
+ORD-1010,31/08/2026 18:09,MN-06,2,,gofood ,Selesai
+ORD-1011,2026-09-15 12:19,MN-05,2,jakarta timur ,Takeaway,Selesai
+ORD-1012,2026-06-13 15:23,MN-01,3,,Dine-In,Selesai
+ORD-1013,17/06/2026 10:32,MN-05,1,Jakarta Timur,GrabFood,Batal
+ORD-1014,2026-08-07 17:06,MN-06,1,Bekasi,GoFood,Selesai
+ORD-1015,2026-06-03 11:45,MN-06,1,Jakarta Timur,Dine-In,Selesai
+ORD-1016,2026-06-23 15:17,MN-07,3,Jakarta Selatan,GrabFood,Batal
+ORD-1017,16/08/2026 08:32,MN-01,3,Jakarta Selatan,GoFood,Selesai
+ORD-1018,2026-06-05 21:00,MN-07,4,,Dine-In,Batal
+ORD-1019,2026-06-13 07:08,MN-04,2, BEKASI,GrabFood,Selesai
+ORD-1020,2026-10-28 12:42,MN-02,2,jakarta timur ,GrabFood,Selesai
+ORD-1021,2026-08-28 08:56,MN-01,3,,Takeaway,Selesai
+ORD-1022,2026-09-14 11:09,MN-04,3,,GoFood,Selesai
+ORD-1023,2026-09-06 22:35,MN-01,1,Bekasi,Takeaway,Selesai
+ORD-1024,2026-06-10 09:23,MN-06,1,jakarta timur ,GrabFood,Selesai
+ORD-1025,2026-07-13 22:35,MN-07,2,jakarta timur ,Takeaway,Selesai
+ORD-1026,2026-10-24 20:10,MN-08,1, BEKASI,GrabFood,Selesai
+ORD-1027,2026-09-25 19:47,MN-04,3,jakarta timur ,Dine-In,Batal
+ORD-1028,2026-09-19 18:37,MN-08,4,Jakarta Selatan,Dine-In,Selesai
+ORD-1029,2026-10-18 17:13,MN-02,4,,GrabFood,Selesai
+ORD-1030,2026-10-12 10:23,MN-08,4,jakarta timur ,Takeaway,Selesai
+ORD-1031,2026-09-05 08:42,MN-07,3,,gofood ,Batal
+ORD-1032,2026-07-10 14:34,MN-08,1, BEKASI,Takeaway,Selesai
+ORD-1033,2026-06-27 18:10,MN-05,4,Jakarta Selatan,GrabFood,Selesai
+ORD-1034,2026-07-21 17:05,MN-01,3,jakarta timur ,GoFood,Selesai
+ORD-1035,2026-08-30 19:29,MN-07,4, BEKASI,gofood ,Batal
+ORD-1036,03/07/2026 21:47,MN-05,3, BEKASI,Takeaway,Selesai
+ORD-1037,2026-07-09 12:08,MN-04,3,Bekasi,gofood ,Selesai
+ORD-1038,2026-06-01 20:17,MN-02,3,jakarta timur ,GrabFood,Selesai
+ORD-1039,09/08/2026 12:55,MN-07,1,Jakarta Timur,GrabFood,Batal
+ORD-1040,2026-07-20 20:07,MN-07,2,Jakarta Timur,GrabFood,Selesai
+ORD-1041,2026-06-11 10:37,MN-02,4,,GrabFood,Selesai
+ORD-1042,2026-06-30 12:48,MN-01,3,Jakarta Timur,gofood ,Selesai
+ORD-1043,2026-10-14 10:31,MN-05,2, BEKASI,,Selesai
+ORD-1044,2026-09-20 16:14,MN-04,4, BEKASI,Takeaway,Selesai
+ORD-1045,21/08/2026 15:15,MN-06,2,,GrabFood,Selesai
+ORD-1046,2026-10-11 09:53,MN-06,1,Bekasi,GrabFood,Selesai
+ORD-1047,2026-06-04 10:31,MN-07,2, BEKASI,Dine-In,Selesai
+ORD-1048,06/06/2026 11:50,MN-07,4,Bekasi,Dine-In,Batal
+ORD-1049,2026-06-19 09:04,MN-08,2,jakarta timur ,Takeaway,Batal
+ORD-1050,2026-06-17 16:42,MN-03,2, BEKASI,gofood ,Selesai
+ORD-1051,30/09/2026 20:57,MN-08,4,Bekasi,GrabFood,Selesai
+ORD-1052,2026-10-12 09:50,MN-01,3, BEKASI,GoFood,Selesai
+ORD-1053,2026-08-15 14:58,MN-02,1,Bekasi,Dine-In,Selesai
+ORD-1054,2026-07-07 20:37,MN-06,4,Jakarta Timur,Takeaway,Selesai
+ORD-1055,2026-09-08 07:05,MN-04,3,jakarta timur ,,Selesai
+ORD-1056,2026-09-14 20:43,MN-05,2,,GrabFood,Selesai
+ORD-1057,10/10/2026 13:52,MN-02,2,Jakarta Timur,gofood ,Selesai
+ORD-1058,2026-10-26 08:43,MN-07,1,,Dine-In,Selesai
+ORD-1059,2026-10-29 15:53,MN-04,3,Jakarta Timur,GrabFood,Selesai
+ORD-1060,2026-10-08 17:49,MN-05,4, BEKASI,Takeaway,Selesai
+ORD-1061,2026-10-20 10:59,MN-08,2, BEKASI,gofood ,Selesai
+ORD-1062,2026-10-18 07:02,MN-03,3,,Dine-In,Selesai
+ORD-1063,2026-08-20 09:54,MN-07,2,Jakarta Selatan,Dine-In,Batal
+ORD-1064,2026-10-02 19:08,MN-05,4,Bekasi,GoFood,Selesai
+ORD-1065,2026-06-27 21:58,MN-08,1, BEKASI,Dine-In,Batal
+ORD-1066,2026-10-29 13:34,MN-05,4,jakarta timur ,GrabFood,Selesai
+ORD-1067,2026-07-23 14:53,MN-01,3,Jakarta Selatan,Dine-In,Selesai
+ORD-1068,2026-10-07 07:38,MN-05,4, BEKASI,Dine-In,Batal
+ORD-1069,2026-09-05 20:23,MN-01,3,jakarta timur ,Dine-In,Selesai
+ORD-1070,2026-08-19 16:32,MN-07,4,Jakarta Timur,gofood ,Selesai
+ORD-1071,2026-06-25 17:29,MN-02,4,Jakarta Selatan,GrabFood,Selesai
+ORD-1072,2026-06-29 08:39,MN-01,2,Jakarta Selatan,gofood ,Selesai
+ORD-1073,14/08/2026 16:48,MN-08,3,,GrabFood,Selesai
+ORD-1074,01/06/2026 21:03,MN-07,1,Bekasi,Takeaway,Selesai
+ORD-1075,2026-10-18 13:38,MN-08,2,Jakarta Selatan,GoFood,Selesai
+ORD-1076,2026-08-04 17:12,MN-02,1, BEKASI,GoFood,Selesai
+ORD-1077,2026-06-30 09:36,MN-07,1,jakarta timur ,gofood ,Selesai
+ORD-1078,2026-06-05 14:47,MN-07,2, BEKASI,Takeaway,Batal
+ORD-1079,2026-07-08 18:53,MN-06,3, BEKASI,GrabFood,Batal
+ORD-1080,2026-08-20 07:16,MN-01,4,Bekasi,GrabFood,Selesai
+ORD-1081,2026-10-29 20:23,MN-02,1, BEKASI,GrabFood,Batal
+ORD-1082,27/10/2026 08:18,MN-02,4,jakarta timur ,Dine-In,Selesai
+ORD-1083,2026-07-03 22:56,MN-07,3, BEKASI,Takeaway,Batal
+ORD-1084,2026-08-12 09:42,MN-01,4,,Dine-In,Batal
+ORD-1085,2026-08-13 15:36,MN-03,3,,GoFood,Batal
+ORD-1086,09/07/2026 13:37,MN-05,3,,gofood ,Selesai
+ORD-1087,2026-08-26 09:33,MN-01,4,Jakarta Timur,Dine-In,Selesai
+ORD-1088,2026-06-09 09:10,MN-05,2,Bekasi,Takeaway,Selesai
+ORD-1089,2026-06-12 15:40,MN-01,3,,GrabFood,Batal
+ORD-1090,2026-06-08 11:46,MN-06,2,Jakarta Selatan,Dine-In,Batal
+ORD-1091,2026-07-12 15:49,MN-06,1, BEKASI,GrabFood,Selesai
+ORD-1092,2026-10-11 19:49,MN-06,2,Jakarta Timur,GoFood,Selesai
+ORD-1093,2026-07-20 14:45,MN-08,2,Jakarta Timur,gofood ,Batal
+ORD-1094,2026-09-18 22:59,MN-01,3,,GoFood,Selesai
+ORD-1095,2026-07-23 08:24,MN-07,4,Jakarta Timur,gofood ,Selesai
+ORD-1096,2026-06-05 16:15,MN-08,2,,Dine-In,Selesai
+ORD-1097,2026-07-31 15:46,MN-01,1,,GrabFood,Batal
+ORD-1098,2026-08-25 13:35,MN-06,3,Jakarta Timur,gofood ,Selesai
+ORD-1099,2026-10-28 18:15,MN-02,4,,GrabFood,Selesai
+ORD-1100,2026-07-17 08:13,MN-07,4,,Takeaway,Batal
+ORD-1101,2026-10-05 11:22,MN-04,1,,gofood ,Selesai
+ORD-1102,26/06/2026 13:25,MN-07,1, BEKASI,Dine-In,Batal
+ORD-1103,2026-09-08 17:55,MN-07,2,Jakarta Selatan,Dine-In,Selesai
+ORD-1104,2026-06-28 21:51,MN-07,1,Bekasi,GrabFood,Selesai
+ORD-1105,15/08/2026 21:43,MN-04,2,,Dine-In,Selesai
+ORD-1106,2026-06-24 17:36,MN-03,3,,GoFood,Selesai
+ORD-1107,2026-09-26 19:54,MN-02,3,,GrabFood,Selesai
+ORD-1108,2026-09-09 14:12,MN-06,2,Jakarta Selatan,Dine-In,Selesai
+ORD-1109,2026-08-02 10:28,MN-08,4,,Takeaway,Selesai
+ORD-1110,2026-09-22 19:10,MN-08,4,Bekasi,gofood ,Selesai
+ORD-1111,2026-06-30 22:32,MN-05,4, BEKASI,Dine-In,Batal
+ORD-1112,01/07/2026 11:17,MN-07,2,Jakarta Timur,Dine-In,Batal
+ORD-1113,2026-10-19 13:22,MN-01,3,Jakarta Selatan,gofood ,Selesai
+ORD-1114,2026-08-22 15:05,MN-05,1,jakarta timur ,GoFood,Selesai
+ORD-1115,2026-08-19 19:16,MN-08,2,Jakarta Selatan,GoFood,Batal
+ORD-1116,2026-07-28 13:19,MN-03,1,Bekasi,Dine-In,Selesai
+ORD-1117,2026-07-14 12:08,MN-05,1,jakarta timur ,Takeaway,Selesai
+ORD-1118,2026-08-11 11:56,MN-03,1,jakarta timur ,Takeaway,Selesai
+ORD-1119,2026-09-25 16:38,MN-07,3,jakarta timur ,Takeaway,Selesai
+ORD-1120,2026-09-14 10:20,MN-05,4,Jakarta Timur,,Selesai
+ORD-1121,2026-10-20 17:10,MN-05,2, BEKASI,GoFood,Selesai
+ORD-1122,2026-10-16 15:52,MN-03,29,jakarta timur ,GrabFood,Batal
+ORD-1123,2026-07-11 11:06,MN-05,4,Bekasi,,Selesai
+ORD-1124,01/09/2026 21:41,MN-06,3,jakarta timur ,gofood ,Selesai
+ORD-1125,02/08/2026 07:15,MN-06,4, BEKASI,gofood ,Selesai
+ORD-1126,2026-07-22 20:17,MN-05,2,Jakarta Selatan,GrabFood,Selesai
+ORD-1127,2026-09-10 21:12,MN-05,3,Jakarta Timur,GoFood,Selesai
+ORD-1128,2026-10-01 07:52,MN-08,1,,gofood ,Selesai
+ORD-1129,2026-08-11 11:36,MN-03,4,Jakarta Timur,GrabFood,Batal
+ORD-1130,2026-10-04 19:18,MN-02,3,,GrabFood,Selesai
+ORD-1131,2026-09-16 19:11,MN-06,3,jakarta timur ,GrabFood,Selesai
+ORD-1132,2026-10-02 13:32,MN-05,2,Jakarta Selatan,gofood ,Selesai
+ORD-1133,09/08/2026 19:03,MN-08,3,jakarta timur ,GoFood,Selesai
+ORD-1134,2026-07-06 15:27,MN-05,4,,,Selesai
+ORD-1135,2026-10-07 13:10,MN-03,3,jakarta timur ,GoFood,Selesai
+ORD-1136,2026-10-02 22:52,MN-01,2,Jakarta Timur,GoFood,Selesai
+ORD-1137,2026-08-30 12:59,MN-01,4,Jakarta Timur,GoFood,Selesai
+ORD-1138,2026-08-29 12:03,MN-08,3,jakarta timur ,Dine-In,Selesai
+ORD-1139,2026-08-16 12:48,MN-05,1, BEKASI,,Batal
+ORD-1140,2026-10-14 08:46,MN-06,1,Jakarta Selatan,Takeaway,Selesai
+ORD-1141,2026-10-17 20:46,MN-08,2, BEKASI,Takeaway,Selesai
+ORD-1142,2026-09-07 20:05,MN-07,4,Jakarta Selatan,GoFood,Selesai
+ORD-1143,2026-09-29 17:11,MN-07,1,Jakarta Selatan,Takeaway,Batal
+ORD-1144,2026-06-02 07:29,MN-01,3,Jakarta Selatan,Dine-In,Selesai
+ORD-1145,2026-09-28 13:36,MN-03,2,Jakarta Selatan,Dine-In,Selesai
+ORD-1146,14/07/2026 17:17,MN-08,1,jakarta timur ,Dine-In,Selesai
+ORD-1147,05/09/2026 20:11,MN-05,4,Bekasi,GoFood,Selesai
+ORD-1148,2026-09-01 17:02,MN-04,3,,Takeaway,Selesai
+ORD-1149,2026-06-21 15:15,MN-03,19,Jakarta Selatan,,Selesai
+ORD-1150,29/07/2026 15:33,MN-05,2,jakarta timur ,Dine-In,Selesai
+ORD-1151,2026-09-18 12:56,MN-01,2,jakarta timur ,Dine-In,Selesai
+ORD-1152,19/06/2026 22:29,MN-07,17,Jakarta Selatan,Takeaway,Selesai
+ORD-1153,2026-06-30 14:33,MN-01,2, BEKASI,Takeaway,Selesai
+ORD-1154,2026-08-24 16:28,MN-07,4, BEKASI,GoFood,Batal
+ORD-1155,2026-06-24 22:29,MN-03,3,jakarta timur ,Dine-In,Selesai
+ORD-1156,2026-08-19 21:56,MN-03,3,Jakarta Timur,GrabFood,Selesai
+ORD-1157,2026-09-24 07:47,MN-08,2, BEKASI,GrabFood,Selesai
+ORD-1158,2026-08-04 12:25,MN-01,3, BEKASI,GrabFood,Selesai
+ORD-1159,2026-07-21 14:52,MN-06,3,Bekasi,Dine-In,Selesai
+ORD-1160,2026-10-13 22:23,MN-05,2, BEKASI,Takeaway,Selesai
+ORD-1161,2026-08-07 09:44,MN-07,3,Bekasi,GrabFood,Selesai
+ORD-1162,2026-07-06 07:11,MN-08,4,Jakarta Timur,GoFood,Batal
+ORD-1163,2026-10-13 22:36,MN-03,2,jakarta timur ,GoFood,Selesai
+ORD-1164,2026-08-28 10:53,MN-08,3,,gofood ,Selesai
+ORD-1165,2026-06-12 07:59,MN-05,2,Bekasi,gofood ,Selesai
+ORD-1166,2026-08-17 14:14,MN-07,1, BEKASI,GrabFood,Selesai
+ORD-1167,2026-08-09 08:40,MN-03,3, BEKASI,GoFood,Selesai
+ORD-1168,2026-08-18 18:06,MN-08,3,jakarta timur ,Takeaway,Batal
+ORD-1169,2026-07-25 14:28,MN-05,2,jakarta timur ,Takeaway,Selesai
+ORD-1170,2026-09-13 13:14,MN-03,1, BEKASI,GrabFood,Selesai
+ORD-1171,2026-10-06 14:34,MN-02,4,jakarta timur ,Takeaway,Selesai
+ORD-1172,2026-06-05 07:36,MN-01,3,Jakarta Selatan,gofood ,Selesai
+ORD-1173,2026-06-12 11:27,MN-05,3,jakarta timur ,GoFood,Selesai
+ORD-1174,2026-10-09 15:36,MN-06,4,,Takeaway,Batal
+ORD-1175,2026-10-14 15:07,MN-06,4,Jakarta Selatan,,Selesai
+ORD-1176,2026-10-16 14:41,MN-01,3,Jakarta Timur,gofood ,Batal
+ORD-1177,2026-07-28 08:14,MN-03,1,,GrabFood,Selesai
+ORD-1178,2026-06-26 20:36,MN-03,1, BEKASI,GrabFood,Selesai
+ORD-1179,06/06/2026 18:53,MN-02,3,Jakarta Selatan,Takeaway,Selesai
+ORD-1180,2026-09-05 10:03,MN-05,4, BEKASI,Takeaway,Selesai
+ORD-1181,24/07/2026 08:30,MN-07,2,Jakarta Timur,gofood ,Batal
+ORD-1182,2026-07-13 20:07,MN-05,3, BEKASI,Takeaway,Selesai
+ORD-1183,2026-06-18 11:03,MN-08,4,,gofood ,Selesai
+ORD-1184,2026-08-05 12:20,MN-07,1,,Takeaway,Selesai
+ORD-1185,2026-07-20 13:37,MN-02,1,Jakarta Selatan,,Selesai
+ORD-1186,2026-07-30 15:29,MN-07,2,Jakarta Selatan,Takeaway,Selesai
+ORD-1187,2026-09-01 13:13,MN-02,4,Bekasi,Dine-In,Selesai
+ORD-1188,2026-06-18 12:00,MN-01,3,,gofood ,Batal
+ORD-1189,2026-06-16 14:22,MN-06,2,Jakarta Timur,gofood ,Selesai
+ORD-1190,2026-10-02 18:52,MN-03,2,Jakarta Timur,Dine-In,Selesai
+ORD-1191,2026-08-26 13:07,MN-08,1,jakarta timur ,GoFood,Selesai
+ORD-1192,2026-10-01 13:18,MN-03,1,,gofood ,Selesai
+ORD-1193,11/06/2026 19:02,MN-07,3,jakarta timur ,GoFood,Selesai
+ORD-1194,2026-08-11 08:22,MN-05,1, BEKASI,Takeaway,Batal
+ORD-1195,2026-06-08 20:43,MN-07,3,Jakarta Timur,GrabFood,Selesai
+ORD-1196,2026-07-10 10:27,MN-01,4,,gofood ,Selesai
+ORD-1197,2026-07-25 19:41,MN-03,2, BEKASI,Dine-In,Selesai
+ORD-1198,2026-06-27 14:29,MN-06,3,jakarta timur ,GoFood,Selesai
+ORD-1199,2026-08-03 21:19,MN-06,3,Jakarta Timur,GoFood,Selesai
+ORD-1200,2026-08-22 21:33,MN-07,1,Jakarta Selatan,gofood ,Selesai
+ORD-1007,2026-07-15 16:49,MN-07,3,,GrabFood,Selesai
+ORD-0464,2026-10-27 19:31,MN-06,3,Jakarta Timur,GoFood,Selesai
+ORD-0825,2026-09-17 13:32,MN-08,2, BEKASI,GrabFood,Batal
+ORD-0357,2026-07-14 12:08,MN-08,3,Jakarta Timur,gofood ,Batal
+ORD-0631,2026-10-08 11:39,MN-01,4,jakarta timur ,gofood ,Selesai
+ORD-0603,2026-08-01 12:52,MN-07,4,Jakarta Selatan,Takeaway,Selesai
+ORD-0168,10/09/2026 14:47,MN-04,1,jakarta timur ,Takeaway,Batal
+ORD-0785,2026-08-08 19:33,MN-05,2,Jakarta Timur,gofood ,Batal
+ORD-0628,30/06/2026 14:11,MN-04,1,,gofood ,Selesai
+ORD-0320,2026-10-06 12:25,MN-07,3,jakarta timur ,Takeaway,Batal
+ORD-0606,2026-09-08 15:57,MN-07,3,,GrabFood,Selesai
+ORD-0370,2026-06-01 12:01,MN-06,1, BEKASI,GrabFood,Selesai
+ORD-1055,2026-09-08 07:05,MN-04,3,jakarta timur ,,Selesai
+ORD-0579,2026-07-24 10:53,MN-05,1, BEKASI,GoFood,Selesai
+ORD-0946,2026-06-11 18:22,MN-04,4,Bekasi,Takeaway,Selesai
+ORD-0305,2026-08-31 21:34,MN-02,18,jakarta timur ,Takeaway,Selesai
+ORD-0660,2026-10-27 09:06,MN-01,4,,GoFood,Selesai
+ORD-0746,2026-07-09 17:25,MN-03,2,Jakarta Timur,gofood ,Selesai
+ORD-0431,2026-10-04 12:43,MN-08,4, BEKASI,gofood ,Batal
+ORD-0054,2026-10-11 09:14,MN-06,4,Bekasi,GrabFood,Batal
+ORD-0582,2026-08-11 11:51,MN-06,2, BEKASI,GrabFood,Selesai
+ORD-0896,15/09/2026 20:55,MN-01,1, BEKASI,Dine-In,Selesai
+ORD-0302,2026-10-11 22:16,MN-03,3,Jakarta Selatan,GrabFood,Selesai
+ORD-0837,2026-10-06 19:42,MN-06,3,jakarta timur ,gofood ,Selesai
+ORD-0708,06/06/2026 15:36,MN-06,2,Jakarta Selatan,Takeaway,Selesai

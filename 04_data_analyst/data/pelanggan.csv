@@ -1,0 +1,201 @@
+id_pelanggan,nama_pelanggan,kota,segmen,tanggal_daftar
+CUST-0001,Pelanggan_1,,Gold,2025-04-25
+CUST-0002,Pelanggan_2,Jakarta Selatan,Regular,2025-09-08
+CUST-0003,Pelanggan_3,,Regular,2026-03-09
+CUST-0004,Pelanggan_4,Jakarta Timur,Silver,2025-08-12
+CUST-0005,Pelanggan_5,jakarta timur ,Gold,2026-07-13
+CUST-0006,Pelanggan_6,Bekasi,Platinum,2025-01-07
+CUST-0007,Pelanggan_7,Depok,Gold,2025-12-15
+CUST-0008,Pelanggan_8,Jakarta Selatan,Gold,2025-04-15
+CUST-0009,Pelanggan_9,Jakarta Timur,Platinum,2025-12-19
+CUST-0010,Pelanggan_10,Surabaya,Regular,2026-07-04
+CUST-0011,Pelanggan_11,Bandung,Silver,2026-07-20
+CUST-0012,Pelanggan_12,,Silver,2025-03-13
+CUST-0013,Pelanggan_13,Depok,Regular,2025-10-24
+CUST-0014,Pelanggan_14,Bandung,Silver,2026-01-25
+CUST-0015,Pelanggan_15,Tangerang,Regular,2026-01-15
+CUST-0016,Pelanggan_16,Depok,Silver,2025-06-25
+CUST-0017,Pelanggan_17, BEKASI,Silver,2026-04-19
+CUST-0018,Pelanggan_18,Jakarta Timur,Silver,2025-11-29
+CUST-0019,Pelanggan_19,Surabaya,Gold,2025-02-02
+CUST-0020,Pelanggan_20,Bandung,Silver,2025-03-09
+CUST-0021,Pelanggan_21,jakarta timur ,Silver,2026-05-27
+CUST-0022,Pelanggan_22, BEKASI,Gold,2025-09-29
+CUST-0023,Pelanggan_23,Surabaya,Gold,2026-08-22
+CUST-0024,Pelanggan_24,Bekasi,Platinum,2025-08-13
+CUST-0025,Pelanggan_25,Jakarta Selatan,Silver,2025-04-04
+CUST-0026,Pelanggan_26,Surabaya,Regular,2025-06-13
+CUST-0027,Pelanggan_27,jakarta timur ,Gold,2026-01-30
+CUST-0028,Pelanggan_28,Jakarta Timur,Regular,2026-07-21
+CUST-0029,Pelanggan_29,Bandung,Regular,2026-07-04
+CUST-0030,Pelanggan_30,jakarta timur ,Regular,2025-10-28
+CUST-0031,Pelanggan_31,Bekasi,Regular,2025-09-27
+CUST-0032,Pelanggan_32, BEKASI,Silver,2025-11-02
+CUST-0033,Pelanggan_33,Bekasi,Regular,2025-06-06
+CUST-0034,Pelanggan_34,Jakarta Selatan,Gold,2025-11-28
+CUST-0035,Pelanggan_35,Depok,Regular,2025-11-11
+CUST-0036,Pelanggan_36,Jakarta Selatan,Silver,2025-03-29
+CUST-0037,Pelanggan_37, BEKASI,Silver,2025-05-12
+CUST-0038,Pelanggan_38,Surabaya,Silver,2025-09-29
+CUST-0039,Pelanggan_39,Depok,Gold,2026-07-07
+CUST-0040,Pelanggan_40,Bandung,Platinum,2026-02-13
+CUST-0041,Pelanggan_41,Depok,Silver,2026-06-14
+CUST-0042,Pelanggan_42, BEKASI,Silver,2025-03-07
+CUST-0043,Pelanggan_43,,Regular,2025-08-14
+CUST-0044,Pelanggan_44,Jakarta Timur,Gold,2025-08-23
+CUST-0045,Pelanggan_45,Tangerang,Platinum,2025-03-14
+CUST-0046,Pelanggan_46,jakarta timur ,Silver,2025-08-08
+CUST-0047,Pelanggan_47,Depok,Regular,2026-04-30
+CUST-0048,Pelanggan_48,Bandung,Platinum,2025-04-10
+CUST-0049,Pelanggan_49,Jakarta Timur,Regular,2026-02-25
+CUST-0050,Pelanggan_50,Bandung,Regular,2025-03-04
+CUST-0051,Pelanggan_51, BEKASI,Platinum,2025-09-12
+CUST-0052,Pelanggan_52,Tangerang,Platinum,2025-05-24
+CUST-0053,Pelanggan_53,Jakarta Selatan,Platinum,2025-09-13
+CUST-0054,Pelanggan_54, BEKASI,Regular,2026-07-18
+CUST-0055,Pelanggan_55,Depok,Silver,2025-04-06
+CUST-0056,Pelanggan_56,Depok,Platinum,2026-02-21
+CUST-0057,Pelanggan_57,Jakarta Timur,Platinum,2025-03-02
+CUST-0058,Pelanggan_58,jakarta timur ,Gold,2025-09-29
+CUST-0059,Pelanggan_59, BEKASI,Platinum,2026-03-10
+CUST-0060,Pelanggan_60,Depok,Regular,2025-06-08
+CUST-0061,Pelanggan_61,Jakarta Timur,Gold,2026-08-17
+CUST-0062,Pelanggan_62,jakarta timur ,Silver,2025-02-28
+CUST-0063,Pelanggan_63,Jakarta Selatan,Silver,2025-02-28
+CUST-0064,Pelanggan_64,Depok,Platinum,2025-03-12
+CUST-0065,Pelanggan_65,Depok,Regular,2025-05-03
+CUST-0066,Pelanggan_66, BEKASI,Gold,2025-03-25
+CUST-0067,Pelanggan_67,Bandung,Silver,2025-09-25
+CUST-0068,Pelanggan_68,Tangerang,Platinum,2025-09-29
+CUST-0069,Pelanggan_69,Jakarta Selatan,Regular,2025-11-20
+CUST-0070,Pelanggan_70,Jakarta Selatan,Regular,2026-04-15
+CUST-0071,Pelanggan_71,Tangerang,Silver,2026-07-05
+CUST-0072,Pelanggan_72,Depok,Gold,2025-12-24
+CUST-0073,Pelanggan_73, BEKASI,Gold,2025-10-19
+CUST-0074,Pelanggan_74,,Gold,2026-06-26
+CUST-0075,Pelanggan_75,Bekasi,Gold,2025-04-17
+CUST-0076,Pelanggan_76, BEKASI,Silver,2025-04-29
+CUST-0077,Pelanggan_77,Depok,Gold,2025-10-06
+CUST-0078,Pelanggan_78,Tangerang,Platinum,2025-07-28
+CUST-0079,Pelanggan_79,Jakarta Timur,Regular,2025-09-15
+CUST-0080,Pelanggan_80,Jakarta Timur,Regular,2026-03-10
+CUST-0081,Pelanggan_81,Tangerang,Silver,2025-12-08
+CUST-0082,Pelanggan_82,Surabaya,Regular,2026-03-29
+CUST-0083,Pelanggan_83,Bekasi,Regular,2025-04-25
+CUST-0084,Pelanggan_84,Bekasi,Platinum,2026-01-14
+CUST-0085,Pelanggan_85,,Gold,2025-05-11
+CUST-0086,Pelanggan_86,Depok,Silver,2025-02-10
+CUST-0087,Pelanggan_87, BEKASI,Platinum,2025-04-16
+CUST-0088,Pelanggan_88,Depok,Silver,2025-06-08
+CUST-0089,Pelanggan_89,Jakarta Timur,Silver,2025-07-01
+CUST-0090,Pelanggan_90,Surabaya,Silver,2025-12-07
+CUST-0091,Pelanggan_91,Jakarta Selatan,Platinum,2025-10-01
+CUST-0092,Pelanggan_92,Depok,Silver,2025-02-09
+CUST-0093,Pelanggan_93,Depok,Silver,2026-04-17
+CUST-0094,Pelanggan_94,Surabaya,Gold,2025-01-25
+CUST-0095,Pelanggan_95,Tangerang,Gold,2025-10-13
+CUST-0096,Pelanggan_96, BEKASI,Gold,2026-06-06
+CUST-0097,Pelanggan_97,Tangerang,Silver,2025-01-29
+CUST-0098,Pelanggan_98,Tangerang,Regular,2026-08-18
+CUST-0099,Pelanggan_99,Bandung,Gold,2025-04-22
+CUST-0100,Pelanggan_100, BEKASI,Regular,2026-03-23
+CUST-0101,Pelanggan_101,Depok,Gold,2026-01-30
+CUST-0102,Pelanggan_102,Jakarta Timur,Silver,2025-02-15
+CUST-0103,Pelanggan_103,Bandung,Gold,2026-01-08
+CUST-0104,Pelanggan_104,Tangerang,Gold,2025-05-08
+CUST-0105,Pelanggan_105,Tangerang,Silver,2026-02-23
+CUST-0106,Pelanggan_106,Surabaya,Silver,2025-07-16
+CUST-0107,Pelanggan_107, BEKASI,Regular,2026-08-06
+CUST-0108,Pelanggan_108,Surabaya,Gold,2025-11-08
+CUST-0109,Pelanggan_109,Depok,Platinum,2026-04-22
+CUST-0110,Pelanggan_110,Tangerang,Gold,2025-06-23
+CUST-0111,Pelanggan_111,Depok,Gold,2025-04-06
+CUST-0112,Pelanggan_112,Bekasi,Regular,2025-08-19
+CUST-0113,Pelanggan_113,jakarta timur ,Regular,2025-02-17
+CUST-0114,Pelanggan_114,Depok,Platinum,2026-04-12
+CUST-0115,Pelanggan_115,Bekasi,Regular,2026-05-22
+CUST-0116,Pelanggan_116,Depok,Silver,2025-04-20
+CUST-0117,Pelanggan_117, BEKASI,Silver,2026-06-15
+CUST-0118,Pelanggan_118,jakarta timur ,Gold,2025-05-05
+CUST-0119,Pelanggan_119, BEKASI,Platinum,2026-03-30
+CUST-0120,Pelanggan_120,Bekasi,Platinum,2026-07-16
+CUST-0121,Pelanggan_121,Depok,Gold,2026-04-06
+CUST-0122,Pelanggan_122,Depok,Gold,2026-06-18
+CUST-0123,Pelanggan_123,Tangerang,Silver,2026-03-27
+CUST-0124,Pelanggan_124, BEKASI,Regular,2025-10-06
+CUST-0125,Pelanggan_125,Surabaya,Silver,2025-05-22
+CUST-0126,Pelanggan_126,Surabaya,Gold,2025-08-08
+CUST-0127,Pelanggan_127,Jakarta Timur,Silver,2026-07-10
+CUST-0128,Pelanggan_128,Jakarta Timur,Platinum,2026-03-07
+CUST-0129,Pelanggan_129,,Gold,2026-05-04
+CUST-0130,Pelanggan_130,Surabaya,Silver,2025-11-02
+CUST-0131,Pelanggan_131,Surabaya,Platinum,2026-05-15
+CUST-0132,Pelanggan_132,Surabaya,Silver,2025-01-30
+CUST-0133,Pelanggan_133, BEKASI,Regular,2026-04-24
+CUST-0134,Pelanggan_134,Jakarta Timur,Regular,2026-02-08
+CUST-0135,Pelanggan_135,jakarta timur ,Silver,2026-03-15
+CUST-0136,Pelanggan_136,Bandung,Silver,2025-02-21
+CUST-0137,Pelanggan_137,Surabaya,Gold,2026-04-11
+CUST-0138,Pelanggan_138,Jakarta Selatan,Platinum,2026-03-08
+CUST-0139,Pelanggan_139,Jakarta Timur,Gold,2025-01-20
+CUST-0140,Pelanggan_140,Jakarta Timur,Regular,2025-08-18
+CUST-0141,Pelanggan_141,Jakarta Timur,Silver,2025-09-11
+CUST-0142,Pelanggan_142,Jakarta Selatan,Silver,2025-09-02
+CUST-0143,Pelanggan_143,Bandung,Silver,2026-04-22
+CUST-0144,Pelanggan_144,Bekasi,Gold,2025-04-28
+CUST-0145,Pelanggan_145,Tangerang,Platinum,2025-04-21
+CUST-0146,Pelanggan_146,Depok,Regular,2026-02-11
+CUST-0147,Pelanggan_147,Tangerang,Regular,2025-09-06
+CUST-0148,Pelanggan_148,Bandung,Platinum,2026-08-03
+CUST-0149,Pelanggan_149,Bandung,Regular,2026-01-15
+CUST-0150,Pelanggan_150,Jakarta Selatan,Platinum,2026-03-07
+CUST-0151,Pelanggan_151,jakarta timur ,Silver,2026-01-06
+CUST-0152,Pelanggan_152, BEKASI,Gold,2026-03-22
+CUST-0153,Pelanggan_153,jakarta timur ,Platinum,2026-07-06
+CUST-0154,Pelanggan_154,Depok,Regular,2025-10-02
+CUST-0155,Pelanggan_155,Depok,Platinum,2025-10-13
+CUST-0156,Pelanggan_156,Surabaya,Gold,2026-08-07
+CUST-0157,Pelanggan_157,Bandung,Silver,2025-01-30
+CUST-0158,Pelanggan_158,Tangerang,Gold,2026-05-15
+CUST-0159,Pelanggan_159,Tangerang,Regular,2025-10-14
+CUST-0160,Pelanggan_160,Jakarta Selatan,Silver,2026-06-14
+CUST-0161,Pelanggan_161,Depok,Platinum,2026-02-21
+CUST-0162,Pelanggan_162,Jakarta Timur,Regular,2026-05-18
+CUST-0163,Pelanggan_163,Depok,Gold,2025-10-29
+CUST-0164,Pelanggan_164, BEKASI,Gold,2026-08-19
+CUST-0165,Pelanggan_165, BEKASI,Gold,2026-03-12
+CUST-0166,Pelanggan_166,Tangerang,Gold,2025-12-27
+CUST-0167,Pelanggan_167,Depok,Gold,2025-09-15
+CUST-0168,Pelanggan_168,Bekasi,Silver,2025-05-03
+CUST-0169,Pelanggan_169,Tangerang,Gold,2025-08-10
+CUST-0170,Pelanggan_170,Tangerang,Silver,2025-04-13
+CUST-0171,Pelanggan_171,Jakarta Timur,Silver,2026-01-05
+CUST-0172,Pelanggan_172,,Regular,2025-10-08
+CUST-0173,Pelanggan_173,Bekasi,Platinum,2026-07-21
+CUST-0174,Pelanggan_174,Tangerang,Platinum,2025-04-16
+CUST-0175,Pelanggan_175,Bekasi,Regular,2026-05-06
+CUST-0176,Pelanggan_176,jakarta timur ,Regular,2025-09-16
+CUST-0177,Pelanggan_177,Jakarta Selatan,Regular,2025-03-08
+CUST-0178,Pelanggan_178,Tangerang,Regular,2025-06-05
+CUST-0179,Pelanggan_179,Surabaya,Silver,2025-09-12
+CUST-0180,Pelanggan_180,jakarta timur ,Gold,2026-06-20
+CUST-0181,Pelanggan_181,Jakarta Timur,Regular,2026-03-16
+CUST-0182,Pelanggan_182,Tangerang,Regular,2025-08-01
+CUST-0183,Pelanggan_183, BEKASI,Regular,2025-06-10
+CUST-0184,Pelanggan_184,,Platinum,2025-06-10
+CUST-0185,Pelanggan_185,Depok,Gold,2026-04-27
+CUST-0186,Pelanggan_186,jakarta timur ,Regular,2025-10-17
+CUST-0187,Pelanggan_187,Depok,Platinum,2025-08-28
+CUST-0188,Pelanggan_188,Bekasi,Gold,2025-04-28
+CUST-0189,Pelanggan_189,Bekasi,Gold,2025-05-26
+CUST-0190,Pelanggan_190,jakarta timur ,Regular,2026-08-06
+CUST-0191,Pelanggan_191,Surabaya,Gold,2026-04-25
+CUST-0192,Pelanggan_192,jakarta timur ,Regular,2026-05-28
+CUST-0193,Pelanggan_193,Bandung,Gold,2025-02-10
+CUST-0194,Pelanggan_194,Jakarta Timur,Gold,2025-01-27
+CUST-0195,Pelanggan_195,,Silver,2026-08-14
+CUST-0196,Pelanggan_196,jakarta timur ,Gold,2026-04-27
+CUST-0197,Pelanggan_197,Surabaya,Platinum,2025-07-05
+CUST-0198,Pelanggan_198,Surabaya,Gold,2025-04-04
+CUST-0199,Pelanggan_199,Bekasi,Gold,2025-11-25
+CUST-0200,Pelanggan_200,Tangerang,Platinum,2026-02-26
