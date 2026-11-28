@@ -1,7 +1,7 @@
 from ujian_sekolah_package import app
 
 def app_ujian():
-    soal_ujian = app.buat_soal("bank_soal.txt")
+    soal_ujian = app.buat_soal("ujian_sekolah_package/bank_soal.txt")
     opsi = ["a", "b", "c", "d"]
     
     jawaban_benar = 0
